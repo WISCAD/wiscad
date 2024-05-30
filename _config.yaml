@@ -8,10 +8,10 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@WISCADDESCRIPTION=adavoodi@wisc.edu
+  email: adavoodi@wisc.edu
   orcid: 0000-0001-5213-2556
   google-scholar: s2VshiMAAAAJ&hl=en&oi=ao
-  github: WISCADDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  github: https://github.com/WISCAD
   twitter: WISCADDESCRIPTION=An engaging 1-3 sentence description of your lab.
   youtube: WISCADDESCRIPTION=An engaging 1-3 sentence description of your lab.
 

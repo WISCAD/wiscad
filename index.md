@@ -1,7 +1,7 @@
 ---
 ---
 
-# 
+# Our Mission
 
 Our mission at the WISCAD lab is to develop computer-aided design tools for modern Integrated Circuits (ICs). This includes studying challenges such as support for advanced manufacturing techniques, emerging devices, packaging and fabrication, emerging applications, secure IC design, and improving the validation and debug of ICs post-fabrication.
 

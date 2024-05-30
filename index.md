@@ -1,7 +1,7 @@
 ---
 ---
 
-# WISCADDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# WISCAD : Wisconsin Computer-Aided Design of Integrated Circuits
 
 
 

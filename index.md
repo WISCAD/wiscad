@@ -27,7 +27,7 @@ We use machine learning to improve computer-aided design and its explainability 
 
 {%
   include feature.html
-  image="images/chip-layout.jpg"
+  image="images/chip-layout.png"
   link="research"
   title="Our Research"
   text=text

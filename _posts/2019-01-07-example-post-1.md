@@ -1,10 +1,10 @@
 ---
-title: Example post 1
-author: sarah-johnson
+title: Travel Awards
+author: azadeh-davoodi
 tags:
-  - biology
-  - medicine
-  - big data
+  - MLSys
+  - SmartComp
+  - DAC
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Congratulations to Robert for winning $3500 travel awards to present his research at DAC, SmartComp and MLSys.

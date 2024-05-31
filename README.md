@@ -1,5 +1,5 @@
 
-# WISCADDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# WISCAD - Electronic Design Automation at University of Wisconsin Madison
 
 Visit **[wiscad.github.io/wiscad](https://wiscad.github.io/wiscad)** 🚀
 

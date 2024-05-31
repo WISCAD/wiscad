@@ -5,8 +5,9 @@ role: pi
 aliases:
   - A. Davoodi
   - A Davoodi
+  - Azadeh Davoodi
 links:
-  home-page: https://janesmith.com
+  home-page: https://directory.engr.wisc.edu/ece/Faculty/Davoodi_Azadeh/
   orcid: 0000-0001-8713-9213
 ---
 

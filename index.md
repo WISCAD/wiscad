@@ -29,7 +29,7 @@ We use machine learning to improve computer-aided design and its explainability 
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="See what we've published"
+  title="Our Research"
   text=text
 %}
 

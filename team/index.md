@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Our lab is made up of a highly motivated, self-driven, and collaborative researchers. We embrace that members come from all cultures and backgrounds. 
+Our lab members are highly motivated, self-driven, and collaborative researchers. We embrace all forms of diversity in our lab.
 
 {% include section.html %}
 

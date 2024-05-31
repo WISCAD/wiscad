@@ -12,8 +12,6 @@ Our mission at the WISCAD lab is to develop computer-aided design software and a
 
 {% capture text %}
 
-## Research
-
 We use machine learning to improve computer-aided design of Integrated Circuits. We also design software for efficient implementation of machine learning algorithms on hardware. See what we have published.
 
 {%
@@ -31,18 +29,18 @@ We use machine learning to improve computer-aided design of Integrated Circuits.
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="See what we've published"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We do our best to make our software and data accessible to public.
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="See our highlighted projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -62,7 +60,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We believe in an inclusive lab environment and would love to have members of all cultures and backgrounds. Meet the awesome members of the WISCAD lab.
 
 {%
   include button.html

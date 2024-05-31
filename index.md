@@ -50,7 +50,7 @@ We do our best to make our software and data accessible to public.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/chip-layout.jpg"
   link="projects"
   title="Our Projects"
   flip=true

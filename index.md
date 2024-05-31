@@ -12,7 +12,7 @@ Our mission at the WISCAD lab is to develop computer-aided design software and a
 
 {% capture text %}
 
-We use machine learning to improve computer-aided design of Integrated Circuits. We also design software for efficient implementation of machine learning algorithms on hardware. See what we have published.
+We use machine learning to improve computer-aided design and its explainability for Integrated Circuits. We also design software for efficient implementation of machine learning algorithms on hardware platforms such as resource-constrained edge devices. See what we have published.
 
 {%
   include button.html

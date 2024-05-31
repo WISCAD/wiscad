@@ -27,7 +27,7 @@ We use machine learning to improve computer-aided design and its explainability 
 
 {%
   include feature.html
-  image="images/chip-layout.png"
+  image="images/word-cloud.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -50,7 +50,7 @@ We do our best to make our software and data accessible to public.
 
 {%
   include feature.html
-  image="images/chip-layout.jpg"
+  image="images/chip-layout.png"
   link="projects"
   title="Our Projects"
   flip=true

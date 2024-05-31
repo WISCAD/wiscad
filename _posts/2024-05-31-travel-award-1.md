@@ -7,4 +7,4 @@ tags:
   - DAC
 ---
 
-Congratulations to Robert for winning $3500 travel awards to present his research at DAC, SmartComp and MLSys.
+Congratulations to Robert for winning multiple travel awards to present his research at DAC, SmartComp and MLSys.

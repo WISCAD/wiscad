@@ -34,3 +34,37 @@
   link: https://doi.org/gtxnbr
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.48550/arXiv.2312.16904
+  title: Block Pruning for Enhanced Efficiency in Convolutional Neural Networks
+  authors:
+  - Cheng-En Wu
+  - Azadeh Davoodi
+  - Yu Hen Hu
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/gtxnbs
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3520126
+  title: "CAP\u2019NN: A Class-aware Framework for Personalized Neural Network Inference"
+  authors:
+  - Maedeh Hemmat
+  - Joshua San Miguel
+  - Azadeh Davoodi
+  publisher: ACM Transactions on Embedded Computing Systems
+  date: '2022-09-30'
+  link: https://doi.org/gtxnbt
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ASP-DAC52403.2022.9712496
+  title: '$\text{Edge}^{n}$ AI: Distributed Inference with Local Edge Devices and
+    Minimal Latency'
+  authors:
+  - Maedeh Hemmat
+  - Azadeh Davoodi
+  - Yu Hen Hu
+  publisher: 2022 27th Asia and South Pacific Design Automation Conference (ASP-DAC)
+  date: '2022-01-17'
+  link: https://doi.org/gtxnbv
+  plugin: sources.py
+  file: sources.yaml

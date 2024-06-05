@@ -1,9 +1,9 @@
 ---
 ---
 
-# Computers that Build Computers
+# Computers that Make Computers
 
-Our mission at the WISCAD lab is to develop software and algorithms for computer-aided design of Integrated Circuits. This includes all aspects such as support for emerging devices and technologies, packaging and fabrication, domain-specific platforms, and secure design and validation.
+At the WISCAD lab, we develop software for computer-aided design of Integrated Circuits (ICs). Our research sits right in between computer science and computer engineering. We develop algorithm and software for specific design problems encountered during the process of designing ICs.  This includes all aspects such as support for scalability for handling billions of components, emerging devices and technologies, heteregenous integration, domain-specific platforms such as machine learning accelerators, and secure design and validation of ICs.
 
 
 {% include section.html %}

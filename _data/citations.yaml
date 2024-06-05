@@ -12,3 +12,25 @@
   link: https://doi.org/gknwj6
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/j.vlsi.2022.10.013
+  title: 'ObfusX: Routing obfuscation with explanatory analysis of a machine learning
+    attack'
+  authors:
+  - Wei Zeng
+  - Azadeh Davoodi
+  - Rasit Onur Topaloglu
+  publisher: Integration
+  date: '2023-03-01'
+  link: https://doi.org/gtxnbq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ISQED57927.2023.10129343
+  title: Neural Network Partitioning for Fast Distributed Inference
+  authors:
+  - Robert Viramontes
+  - Azadeh Davoodi
+  publisher: 2023 24th International Symposium on Quality Electronic Design (ISQED)
+  date: '2023-04-05'
+  link: https://doi.org/gtxnbr
+  plugin: sources.py
+  file: sources.yaml

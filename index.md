@@ -60,7 +60,7 @@ We do our best to make our software and data accessible to public.
 
 {% capture text %}
 
-We believe in an inclusive lab environment and would love to have members of all cultures and backgrounds. Meet the awesome members of the WISCAD lab.
+We support an inclusive lab environment. All cultures and backgrounds welcome! Meet the awesome members of the WISCAD lab.
 
 {%
   include button.html

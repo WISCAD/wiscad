@@ -35,7 +35,7 @@ We use machine learning to improve computer-aided design and its explainability 
 
 {% capture text %}
 
-We do our best to make our software and data accessible to public.
+Browse our current and past research projects. Download source codes and data.
 
 {%
   include button.html

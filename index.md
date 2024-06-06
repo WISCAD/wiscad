@@ -48,7 +48,7 @@ Browse our current and past research projects. Download source codes and data.
 
 {%
   include feature.html
-  image="images/chip-layout.png"
+  image="images/chip-layout-BW.png"
   link="projects"
   title="Our Projects"
   flip=true

@@ -7,4 +7,4 @@ tags:
   - DAC
 ---
 
-Congratulations to Robert for winning multiple travel awards to present his research at DAC, SmartComp and MLSys.
+Congratulations to Robert and Lizi for winning multiple travel awards to attend DAC, SmartComp and MLSys.

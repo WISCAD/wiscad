@@ -34,7 +34,7 @@ Browse our current and past research projects. Download source codes and data.
 
 {% capture text %}
 
-Our published results spans machine learning for better chip design, design automation for better machine learning including in distributed settings with edge devices, all aspects of IC-CAD including high-level design and layout synthesis, and hardware security.
+Our published results span machine learning for better chip design, design automation for better machine learning including in distributed settings with edge devices, all aspects of IC-CAD including high-level design and layout synthesis, and hardware security.
 
 {%
   include button.html

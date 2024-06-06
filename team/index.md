@@ -7,8 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Our lab members are highly motivated, self-driven, and collaborative researchers. We embrace all forms of diversity in our lab.
-
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}

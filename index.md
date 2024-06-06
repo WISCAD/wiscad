@@ -13,6 +13,16 @@ In recent years, we have been using machine learning and its explainability to i
 Browse our current and past research projects. Download source codes and data.
 
 {%
+  include feature.html
+  image="images/chip-layout-BW.png"
+  link="projects"
+  title="Our Research"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+{%
   include button.html
   link="projects"
   text="See our projects"
@@ -23,15 +33,6 @@ Browse our current and past research projects. Download source codes and data.
 
 {% endcapture %}
 
-{%
-  include feature.html
-  image="images/chip-layout-BW.png"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
 
 {% capture text %}
 
@@ -52,7 +53,7 @@ Our published results spans machine learning for better chip design, design auto
   include feature.html
   image="images/word-cloud.jpg"
   link="research"
-  title="Our Research"
+  title="Our published results"
   text=text
 %}
 

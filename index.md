@@ -59,7 +59,7 @@ Our published results span machine learning for better chip design, design autom
 
 {% capture text %}
 
-We support an inclusive lab environment and embrace all forms of diversity.
+We support an inclusive lab environment and embrace all forms of diversity including different cultures, backgrounds, and neurodiversity.
 
 {%
   include button.html

@@ -198,3 +198,90 @@
   link: https://doi.org/gtxq6d
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/J.VLSI.2019.08.003
+  title: Power-efficient ReRAM-aware CNN model generation
+  authors:
+  - Maedeh Hemmat
+  - Azadeh Davoodi
+  publisher: Integration
+  date: '2019-11-01'
+  link: https://doi.org/gtxrdd
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TVLSI.2019.2929710
+  title: Analysis of Security of Split Manufacturing Using Machine Learning
+  authors:
+  - Wei Zeng
+  - Boyu Zhang
+  - Azadeh Davoodi
+  publisher: IEEE Transactions on Very Large Scale Integration (VLSI) Systems
+  date: '2019-12-01'
+  link: https://doi.org/gknwk8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ISQED.2019.8697843
+  title: Dynamic Reconfiguration of CNNs for Input-Dependent Approximation
+  authors:
+  - Maedeh Hemmat
+  - Azadeh Davoodi
+  publisher: 20th International Symposium on Quality Electronic Design (ISQED)
+  date: '2019-03-01'
+  link: https://doi.org/gtxrdf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/JETCAS.2018.2833383
+  title: Exploring Energy and Accuracy Tradeoff in Structure Simplification of Trained
+    Deep Neural Networks
+  authors:
+  - Boyu Zhang
+  - Azadeh Davoodi
+  - Yu Hen Hu
+  publisher: IEEE Journal on Emerging and Selected Topics in Circuits and Systems
+  date: '2018-12-01'
+  link: https://doi.org/gfstx6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ASPDAC.2018.8297345
+  title: Exploring energy and accuracy tradeoff in structure simplification of trained
+    deep neural networks
+  authors:
+  - Boyu Zhang
+  - Azadeh Davoodi
+  - Yu-Hen Hu
+  publisher: 2018 23rd Asia and South Pacific Design Automation Conference (ASP-DAC)
+  date: '2018-01-01'
+  link: https://doi.org/gtxrdg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3195970.3195991
+  title: Analysis of security of split manufacturing using machine learning
+  authors:
+  - Boyu Zhang
+  - "Jonathon Crandall Maga\xF1a"
+  - Azadeh Davoodi
+  publisher: Proceedings of the 55th Annual Design Automation Conference
+  date: '2018-06-24'
+  link: https://doi.org/gtxrdh
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3194554.3194579
+  title: A Comparative Study of Local Net Modeling Using Machine Learning
+  authors:
+  - Jackson Melchert
+  - Boyu Zhang
+  - Azadeh Davoodi
+  publisher: Proceedings of the 2018 on Great Lakes Symposium on VLSI
+  date: '2018-05-30'
+  link: https://doi.org/gknwsp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICCD.2018.00033
+  title: Power-Efficient ReRAM-Aware CNN Model Generation
+  authors:
+  - Maedeh Hemmat
+  - Azadeh Davoodi
+  publisher: 2018 IEEE 36th International Conference on Computer Design (ICCD)
+  date: '2018-10-01'
+  link: https://doi.org/gtxrdj
+  plugin: sources.py
+  file: sources.yaml

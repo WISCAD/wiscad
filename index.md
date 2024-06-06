@@ -21,6 +21,8 @@ Browse our current and past research projects. Download source codes and data.
   style="bare"
 %}
 
+{% endcapture %}
+
 {%
   include feature.html
   image="images/chip-layout-BW.png"
@@ -30,9 +32,6 @@ Browse our current and past research projects. Download source codes and data.
   style="bare"
   text=text
 %}
-
-{% endcapture %}
-
 
 {% capture text %}
 

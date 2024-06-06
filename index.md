@@ -52,7 +52,7 @@ Our published results spans machine learning for better chip design, design auto
   include feature.html
   image="images/word-cloud.jpg"
   link="research"
-  title="Our published results"
+  title="Our Published Results"
   text=text
 %}
 

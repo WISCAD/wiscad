@@ -10,7 +10,7 @@ At the WISCAD lab, we develop computer-aided design (CAD) tools for Integrated C
 
 {% capture text %}
 
-In recent years, we have been using machine learning and its explainability to improve computer-aided design for Integrated Circuits. 
+In recent years, we have been using explainable machine learning to improve computer-aided design for Integrated Circuits. 
 Browse our current and past research projects. Download source codes and data.
 
 {%

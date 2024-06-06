@@ -57,6 +57,14 @@ Our published results spans machine learning for better chip design, design auto
 %}
 
 
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="team"
+  title="Our Team"
+  text=text
+%}
+
 {% capture text %}
 
 We support an inclusive lab environment and embrace all forms of diversity.
@@ -71,10 +79,3 @@ We support an inclusive lab environment and embrace all forms of diversity.
 
 {% endcapture %}
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}

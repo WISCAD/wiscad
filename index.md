@@ -7,8 +7,6 @@ At the WISCAD lab, we develop computer-aided design tools for Integrated Circuit
 
 {% include section.html %}
 
-## Highlights
-
 {% capture text %}
 
 We use machine learning to improve computer-aided design and its explainability for Integrated Circuits. We also design software for efficient implementation of machine learning algorithms on hardware platforms such as resource-constrained edge devices. See what we have published.

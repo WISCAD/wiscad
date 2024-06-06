@@ -285,3 +285,52 @@
   link: https://doi.org/gtxrdj
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1109/TCAD.2017.2695889
+  title: Dynamic Planning of Local Congestion From Varying-Size Vias for Global Routing
+    Layer Assignment
+  authors:
+  - Daohang Shi
+  - Edward Tashjian
+  - Azadeh Davoodi
+  publisher: IEEE Transactions on Computer-Aided Design of Integrated Circuits and
+    Systems
+  date: '2017-08-01'
+  link: https://doi.org/gtxrs3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TVLSI.2017.2748018
+  title: Are Proximity Attacks a Threat to the Security of Split Manufacturing of
+    Integrated Circuits?
+  authors:
+  - Jonathon Magana
+  - Daohang Shi
+  - Jackson Melchert
+  - Azadeh Davoodi
+  publisher: IEEE Transactions on Very Large Scale Integration (VLSI) Systems
+  date: '2017-12-01'
+  link: https://doi.org/gtxrs4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ASPDAC.2017.7858351
+  title: Flexible interconnect in 2.5D ICs to minimize the interposer's metal layers
+  authors:
+  - Daniel P. Seemuth
+  - Azadeh Davoodi
+  - Katherine Morrow
+  publisher: 2017 22nd Asia and South Pacific Design Automation Conference (ASP-DAC)
+  date: '2017-01-01'
+  link: https://doi.org/gtxrs5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/2966986.2967006
+  title: Are proximity attacks a threat to the security of split manufacturing of
+    integrated circuits?
+  authors:
+  - "Jonathon Maga\xF1a"
+  - Daohang Shi
+  - Azadeh Davoodi
+  publisher: Proceedings of the 35th International Conference on Computer-Aided Design
+  date: '2016-11-07'
+  link: https://doi.org/gtxrs6
+  plugin: sources.py
+  file: sources.yaml

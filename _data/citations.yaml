@@ -68,3 +68,133 @@
   link: https://doi.org/gtxnbv
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1109/MDAT.2020.2977065
+  title: A Mixture of Experts Approach for Low-Cost DNN Customization
+  authors:
+  - Boyu Zhang
+  - Azadeh Davoodi
+  - Yu Hen Hu
+  publisher: IEEE Design &amp; Test
+  date: '2021-08-01'
+  link: https://doi.org/gtxq55
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TCAD.2020.3033750
+  title: 'AirNN: A Featherweight Framework for Dynamic Input-Dependent Approximation
+    of CNNs'
+  authors:
+  - Maedeh Hemmat
+  - Joshua San Miguel
+  - Azadeh Davoodi
+  publisher: IEEE Transactions on Computer-Aided Design of Integrated Circuits and
+    Systems
+  date: '2021-10-01'
+  link: https://doi.org/gtxq56
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3394885.3431600
+  title: ObfusX
+  authors:
+  - Wei Zeng
+  - Azadeh Davoodi
+  - Rasit Onur Topaloglu
+  publisher: Proceedings of the 26th Asia and South Pacific Design Automation Conference
+  date: '2021-01-18'
+  link: https://doi.org/gtxq57
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.23919/DATE51398.2021.9473972
+  title: 'Logic Synthesis Meets Machine Learning: Trading Exactness for Generalization'
+  authors:
+  - Shubham Rai
+  - Walter Lau Neto
+  - Yukio Miyasaka
+  - Xinpei Zhang
+  - Mingfei Yu
+  - Qingyang Yi
+  - Masahiro Fujita
+  - Guilherme B. Manske
+  - Matheus F. Pontes
+  - Leomar S. da Rosa
+  - Marilton S. de Aguiar
+  - Paulo F. Butzen
+  - Po-Chun Chien
+  - Yu-Shan Huang
+  - Hoa-Ren Wang
+  - Jie-Hong R. Jiang
+  - Jiaqi Gu
+  - Zheng Zhao
+  - Zixuan Jiang
+  - David Z. Pan
+  - Brunno A. de Abreu
+  - Isac de Souza Campos
+  - Augusto Berndt
+  - Cristina Meinhardt
+  - Jonata T. Carvalho
+  - Mateus Grellert
+  - Sergio Bampi
+  - Aditya Lohana
+  - Akash Kumar
+  - Wei Zeng
+  - Azadeh Davoodi
+  - Rasit O. Topaloglu
+  - Yuan Zhou
+  - Jordan Dotzel
+  - Yichi Zhang
+  - Hanyu Wang
+  - Zhiru Zhang
+  - Valerio Tenace
+  - Pierre-Emmanuel Gaillardon
+  - Alan Mishchenko
+  - Satrajit Chatterjee
+  publisher: 2021 Design, Automation &amp; Test in Europe Conference &amp; Exhibition
+    (DATE)
+  date: '2021-02-01'
+  link: https://doi.org/gtxq58
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICCAD51958.2021.9643484
+  title: 'Sampling-Based Approximate Logic Synthesis: An Explainable Machine Learning
+    Approach'
+  authors:
+  - Wei Zeng
+  - Azadeh Davoodi
+  - Rasit Onur Topaloglu
+  publisher: 2021 IEEE/ACM International Conference On Computer Aided Design (ICCAD)
+  date: '2021-11-01'
+  link: https://doi.org/gtxq59
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ISVLSI51109.2021.00033
+  title: 'Lorax: Machine Learning-Based Oracle Reconstruction With Minimal I/O Patterns'
+  authors:
+  - Wei Zeng
+  - Azadeh Davoodi
+  - Rasit Onur Topaloglu
+  publisher: 2021 IEEE Computer Society Annual Symposium on VLSI (ISVLSI)
+  date: '2021-07-01'
+  link: https://doi.org/gtxq6b
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/COINS49042.2020.9191636
+  title: 'CHaPR: Efficient Inference of CNNs via Channel Pruning'
+  authors:
+  - Boyu Zhang
+  - Azadeh Davoodi
+  - Yu Hen Hu
+  publisher: 2020 International Conference on Omni-layer Intelligent Systems (COINS)
+  date: '2020-08-01'
+  link: https://doi.org/gtxq6c
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/DAC18072.2020.9218741
+  title: "CAP\u2019NN: Class-Aware Personalized Neural Network Inference"
+  authors:
+  - Maedeh Hemmat
+  - Joshua San Miguel
+  - Azadeh Davoodi
+  publisher: 2020 57th ACM/IEEE Design Automation Conference (DAC)
+  date: '2020-07-01'
+  link: https://doi.org/gtxq6d
+  plugin: sources.py
+  file: sources.yaml

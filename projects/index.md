@@ -1,7 +1,7 @@
 ---
-title: Projects
+title: Research
 nav:
-  order: 2
+  order: 1
   tooltip: Current and past projects
 ---
 

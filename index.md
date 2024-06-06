@@ -3,7 +3,7 @@
 
 # Computers that Make Computers
 
-At the WISCAD lab, we develop computer-aided design tools for Integrated Circuits (ICs). Our research sits right in between computer science and electrical engineering. We develop models, algorithms, and software for designing ICs.  This includes all aspects such as support for scalability for handling billions of components in a chip, emerging devices and technologies, heteregenous integration, domain-specific platforms such as machine learning accelerators, and secure design and validation of ICs.
+At the WISCAD lab, we develop computer-aided design tools for Integrated Circuits (ICs). Our research sits right in between computer science and electrical engineering. We develop models, algorithms, and software for designing ICs.  This includes all aspects such as support for billions of components in a chip, emerging devices and technologies, heteregenous integration, domain-specific platforms such as machine learning accelerators, and secure design and validation of ICs.
 
 {% include section.html %}
 
@@ -32,6 +32,7 @@ We use machine learning to improve computer-aided design and its explainability 
 
 {% capture text %}
 
+In recent years, we have been using machine learning and its explainability to improve computer-aided design for Integrated Circuits. 
 Browse our current and past research projects. Download source codes and data.
 
 {%

@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+In recent years, we have been using explainable machine learning to improve computer-aided design for Integrated Circuits. Browse our current and past research projects. Download source codes and data.
 
 {% include tags.html tags="publication, resource, website" %}
 

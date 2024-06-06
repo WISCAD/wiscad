@@ -13,6 +13,15 @@ In recent years, we have been using machine learning and its explainability to i
 Browse our current and past research projects. Download source codes and data.
 
 {%
+  include button.html
+  link="projects"
+  text="See our projects"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{%
   include feature.html
   image="images/chip-layout-BW.png"
   link="projects"
@@ -20,15 +29,6 @@ Browse our current and past research projects. Download source codes and data.
   flip=true
   style="bare"
   text=text
-%}
-
-{%
-  include button.html
-  link="projects"
-  text="See our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
 %}
 
 {% endcapture %}

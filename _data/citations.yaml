@@ -415,15 +415,3 @@
   link: https://arxiv.org/abs/1811.04151
   plugin: sources.py
   file: sources.yaml
-- id: isbn:978-3-9815-3707-9
-  title: 'The slowdown or race-to-idle question: Workload-aware energy optimization
-    of SMT multicore platforms under process variation'
-  authors:
-  - Anup Das
-  - Geoff V. Merrett
-  - Bashir M. Al-Hashimi
-  publisher: 2016 Design
-  date: ''
-  link: ''
-  plugin: sources.py
-  file: sources.yaml

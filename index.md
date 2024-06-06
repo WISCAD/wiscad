@@ -7,15 +7,6 @@ At the WISCAD lab, we develop computer-aided design (CAD) tools for Integrated C
 
 {% include section.html %}
 
-{%
-  include feature.html
-  image="images/chip-layout-BW.png"
-  link="projects"
-  title="Our Research"
-  flip=true
-  style="bare"
-  text=text
-%}
 
 {% capture text %}
 
@@ -32,6 +23,14 @@ Browse our current and past research projects. Download source codes and data.
 %}
 
 {% endcapture %}
+
+{%
+  include feature.html
+  image="images/chip-layout.jpg"
+  link="research"
+  title="Our Research"
+  text=text
+%}
 
 {% capture text %}
 
@@ -51,23 +50,17 @@ Our published results spans machine learning for better chip design, design auto
 {%
   include feature.html
   image="images/word-cloud.jpg"
-  link="research"
+  link="projects"
   title="Our Published Results"
-  text=text
-%}
-
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
+  flip=true
+  style="bare"
   text=text
 %}
 
 {% capture text %}
 
 We support an inclusive lab environment and embrace all forms of diversity.
+
 {%
   include button.html
   link="team"
@@ -78,4 +71,12 @@ We support an inclusive lab environment and embrace all forms of diversity.
 %}
 
 {% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="team"
+  title="Our Team"
+  text=text
+%}
 

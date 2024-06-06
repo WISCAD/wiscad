@@ -40,7 +40,7 @@ Browse our current and past research projects. Download source codes and data.
 {%
   include button.html
   link="projects"
-  text="See our highlighted projects"
+  text="See our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -60,8 +60,7 @@ Browse our current and past research projects. Download source codes and data.
 
 {% capture text %}
 
-We support an inclusive lab environment. All cultures and backgrounds welcome! Meet the awesome members of the WISCAD lab.
-
+We support an inclusive lab environment and embrace all forms of diversity.
 {%
   include button.html
   link="team"

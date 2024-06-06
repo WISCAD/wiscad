@@ -7,6 +7,16 @@ At the WISCAD lab, we develop computer-aided design (CAD) tools for Integrated C
 
 {% include section.html %}
 
+{%
+  include feature.html
+  image="images/chip-layout-BW.png"
+  link="projects"
+  title="Our Research"
+  flip=true
+  style="bare"
+  text=text
+%}
+
 {% capture text %}
 
 In recent years, we have been using machine learning and its explainability to improve computer-aided design for Integrated Circuits. 
@@ -22,16 +32,6 @@ Browse our current and past research projects. Download source codes and data.
 %}
 
 {% endcapture %}
-
-{%
-  include feature.html
-  image="images/chip-layout-BW.png"
-  link="projects"
-  title="Our Research"
-  flip=true
-  style="bare"
-  text=text
-%}
 
 {% capture text %}
 

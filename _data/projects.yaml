@@ -8,15 +8,15 @@
   tags:
     - XAI
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Distributed NN Inference
+  subtitle: Synthesis of Deep Neural Networks on distributed devices
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://wiscad.ece.wisc.edu
+  description: In this project, new techniques will be investigated to directly deploy DNNs onto IoT devices, to perform a latency-constrained or energy-constrained inference. 
+  repo: https://github.com/WISCAD
   tags:
-    - resource
+    - data
 
 - title: Cool Tutorial
   subtitle: a subtitle

@@ -2,9 +2,9 @@
   subtitle: Explainable AI for better VLSI chip design
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
+  link: https://wiscad.ece.wisc.edu
   description: The goal of this project is to utilize the emerging field of Explainable Artificial Intelligence (XAI) to transform the utility of AI within the chip design process. 
-  repo: greenelab/lab-website-template
+  repo: https://github.com/WISCAD
   tags:
     - XAI
 

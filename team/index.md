@@ -7,8 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-We support an inclusive lab environment and embrace diversity in culture, race, sexual orientation, gender, and neurodiversity.
-
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}

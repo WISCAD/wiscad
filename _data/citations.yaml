@@ -507,3 +507,25 @@
   link: https://doi.org/gtzxp9
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1109/ASPDAC.2014.6742963
+  title: Multi-mode trace signal selection for post-silicon debug
+  authors:
+  - Min Li
+  - Azadeh Davoodi
+  publisher: 2014 19th Asia and South Pacific Design Automation Conference (ASP-DAC)
+  date: '2014-01-01'
+  link: https://doi.org/gtzxqb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TCAD.2014.2307533
+  title: A Hybrid Approach for Fast and Accurate Trace Signal Selection for Post-Silicon
+    Debug
+  authors:
+  - Min Li
+  - Azadeh Davoodi
+  publisher: IEEE Transactions on Computer-Aided Design of Integrated Circuits and
+    Systems
+  date: '2014-07-01'
+  link: https://doi.org/gtzxqc
+  plugin: sources.py
+  file: sources.yaml

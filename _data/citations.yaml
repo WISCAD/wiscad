@@ -478,12 +478,17 @@
   link: https://doi.org/gtzxqf
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1145/2742060
-  title: Proceedings of the 25th edition on Great Lakes Symposium on VLSI
-  authors: []
-  publisher: ACM
+- id: doi:10.1145/2742060.2742097
+  title: Online and Operand-Aware Detection of Failures Utilizing False Alarm Vectors
+  authors:
+  - Amir Yazdanbakhsh
+  - David Palframan
+  - Azadeh Davoodi
+  - Nam Sung Kim
+  - Mikko Lipasti
+  publisher: Proceedings of the 25th edition on Great Lakes Symposium on VLSI
   date: '2015-05-20'
-  link: https://doi.org/gtzxp8
+  link: https://doi.org/gtzxqg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ISQED.2015.7085480

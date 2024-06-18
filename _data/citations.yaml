@@ -427,3 +427,56 @@
   link: https://arxiv.org/abs/1811.04151
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1145/3061639.3062335
+  title: TraPL
+  authors:
+  - Daohang Shi
+  - Azadeh Davoodi
+  publisher: Proceedings of the 54th Annual Design Automation Conference 2017
+  date: '2017-06-18'
+  link: https://doi.org/ggppc6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3036669
+  title: Proceedings of the 2017 ACM on International Symposium on Physical Design
+  authors: []
+  publisher: ACM
+  date: '2017-03-19'
+  link: https://doi.org/gtzxp4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.23919/DATE.2017.7927123
+  title: Technology mapping with all spin logic
+  authors:
+  - Boyu Zhang
+  - Azadeh Davoodi
+  publisher: Design, Automation &amp; Test in Europe Conference &amp; Exhibition (DATE),
+    2017
+  date: '2017-03-01'
+  link: https://doi.org/gtzxp5
+  plugin: sources.py
+  file: sources.yaml
+- id: isbn:978-3-9815-3707-9
+  title: 'The slowdown or race-to-idle question: Workload-aware energy optimization
+    of SMT multicore platforms under process variation'
+  authors:
+  - Anup Das
+  - Geoff V. Merrett
+  - Bashir M. Al-Hashimi
+  publisher: 2016 Design
+  date: ''
+  link: ''
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ASPDAC.2016.7428040
+  title: Dynamic planning of local congestion from varying-size vias for global routing
+    layer assignment
+  authors:
+  - Daohang Shi
+  - Edward Tashjian
+  - Azadeh Davoodi
+  publisher: 2016 21st Asia and South Pacific Design Automation Conference (ASP-DAC)
+  date: '2016-01-01'
+  link: https://doi.org/gtzxp6
+  plugin: sources.py
+  file: sources.yaml

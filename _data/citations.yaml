@@ -468,12 +468,14 @@
   link: https://doi.org/gtzxp6
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1145/2744769
-  title: Proceedings of the 52nd Annual Design Automation Conference
-  authors: []
-  publisher: ACM
+- id: doi:10.1145/2744769.2744878
+  title: On using control signals for word-level identification in a gate-level netlist
+  authors:
+  - Edward Tashjian
+  - Azadeh Davoodi
+  publisher: Proceedings of the 52nd Annual Design Automation Conference
   date: '2015-06-07'
-  link: https://doi.org/gtzxp7
+  link: https://doi.org/gtzxqf
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/2742060

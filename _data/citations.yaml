@@ -1,5 +1,90 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1109/TCAD.2020.3033750
+  title: 'AirNN: A Featherweight Framework for Dynamic Input-Dependent Approximation
+    of CNNs'
+  authors:
+  - Maedeh Hemmat
+  - Joshua San Miguel
+  - Azadeh Davoodi
+  publisher: IEEE Transactions on Computer-Aided Design of Integrated Circuits and
+    Systems
+  date: '2021-10-01'
+  link: https://doi.org/gtxq56
+  orcid: 0000-0001-5213-2556
+  azadeh-davoodi: true
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/MDAT.2020.2977065
+  title: A Mixture of Experts Approach for Low-Cost DNN Customization
+  authors:
+  - Boyu Zhang
+  - Azadeh Davoodi
+  - Yu Hen Hu
+  publisher: IEEE Design &amp; Test
+  date: '2021-08-01'
+  link: https://doi.org/gtxq55
+  orcid: 0000-0001-5213-2556
+  azadeh-davoodi: true
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TVLSI.2019.2929710
+  title: Analysis of Security of Split Manufacturing Using Machine Learning
+  authors:
+  - Wei Zeng
+  - Boyu Zhang
+  - Azadeh Davoodi
+  publisher: IEEE Transactions on Very Large Scale Integration (VLSI) Systems
+  date: '2019-12-01'
+  link: https://doi.org/gknwk8
+  orcid: 0000-0001-5213-2556
+  azadeh-davoodi: true
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/JETCAS.2018.2833383
+  title: Exploring Energy and Accuracy Tradeoff in Structure Simplification of Trained
+    Deep Neural Networks
+  authors:
+  - Boyu Zhang
+  - Azadeh Davoodi
+  - Yu Hen Hu
+  publisher: IEEE Journal on Emerging and Selected Topics in Circuits and Systems
+  date: '2018-12-01'
+  link: https://doi.org/gfstx6
+  orcid: 0000-0001-5213-2556
+  azadeh-davoodi: true
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TVLSI.2017.2748018
+  title: Are Proximity Attacks a Threat to the Security of Split Manufacturing of
+    Integrated Circuits?
+  authors:
+  - Jonathon Magana
+  - Daohang Shi
+  - Jackson Melchert
+  - Azadeh Davoodi
+  publisher: IEEE Transactions on Very Large Scale Integration (VLSI) Systems
+  date: '2017-12-01'
+  link: https://doi.org/gtxrs4
+  orcid: 0000-0001-5213-2556
+  azadeh-davoodi: true
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TCAD.2017.2695889
+  title: Dynamic Planning of Local Congestion From Varying-Size Vias for Global Routing
+    Layer Assignment
+  authors:
+  - Daohang Shi
+  - Edward Tashjian
+  - Azadeh Davoodi
+  publisher: IEEE Transactions on Computer-Aided Design of Integrated Circuits and
+    Systems
+  date: '2017-08-01'
+  link: https://doi.org/gtxrs3
+  orcid: 0000-0001-5213-2556
+  azadeh-davoodi: true
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.23919/DATE48585.2020.9116488
   title: Explainable DRC Hotspot Prediction with Random Forest and SHAP Tree Explainer
   authors:
@@ -66,30 +151,6 @@
   publisher: 2022 27th Asia and South Pacific Design Automation Conference (ASP-DAC)
   date: '2022-01-17'
   link: https://doi.org/gtxnbv
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1109/MDAT.2020.2977065
-  title: A Mixture of Experts Approach for Low-Cost DNN Customization
-  authors:
-  - Boyu Zhang
-  - Azadeh Davoodi
-  - Yu Hen Hu
-  publisher: IEEE Design &amp; Test
-  date: '2021-08-01'
-  link: https://doi.org/gtxq55
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1109/TCAD.2020.3033750
-  title: 'AirNN: A Featherweight Framework for Dynamic Input-Dependent Approximation
-    of CNNs'
-  authors:
-  - Maedeh Hemmat
-  - Joshua San Miguel
-  - Azadeh Davoodi
-  publisher: IEEE Transactions on Computer-Aided Design of Integrated Circuits and
-    Systems
-  date: '2021-10-01'
-  link: https://doi.org/gtxq56
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3394885.3431600
@@ -208,17 +269,6 @@
   link: https://doi.org/gtxrdd
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1109/TVLSI.2019.2929710
-  title: Analysis of Security of Split Manufacturing Using Machine Learning
-  authors:
-  - Wei Zeng
-  - Boyu Zhang
-  - Azadeh Davoodi
-  publisher: IEEE Transactions on Very Large Scale Integration (VLSI) Systems
-  date: '2019-12-01'
-  link: https://doi.org/gknwk8
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1109/ISQED.2019.8697843
   title: Dynamic Reconfiguration of CNNs for Input-Dependent Approximation
   authors:
@@ -227,18 +277,6 @@
   publisher: 20th International Symposium on Quality Electronic Design (ISQED)
   date: '2019-03-01'
   link: https://doi.org/gtxrdf
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1109/JETCAS.2018.2833383
-  title: Exploring Energy and Accuracy Tradeoff in Structure Simplification of Trained
-    Deep Neural Networks
-  authors:
-  - Boyu Zhang
-  - Azadeh Davoodi
-  - Yu Hen Hu
-  publisher: IEEE Journal on Emerging and Selected Topics in Circuits and Systems
-  date: '2018-12-01'
-  link: https://doi.org/gfstx6
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ASPDAC.2018.8297345
@@ -283,32 +321,6 @@
   publisher: 2018 IEEE 36th International Conference on Computer Design (ICCD)
   date: '2018-10-01'
   link: https://doi.org/gtxrdj
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1109/TCAD.2017.2695889
-  title: Dynamic Planning of Local Congestion From Varying-Size Vias for Global Routing
-    Layer Assignment
-  authors:
-  - Daohang Shi
-  - Edward Tashjian
-  - Azadeh Davoodi
-  publisher: IEEE Transactions on Computer-Aided Design of Integrated Circuits and
-    Systems
-  date: '2017-08-01'
-  link: https://doi.org/gtxrs3
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1109/TVLSI.2017.2748018
-  title: Are Proximity Attacks a Threat to the Security of Split Manufacturing of
-    Integrated Circuits?
-  authors:
-  - Jonathon Magana
-  - Daohang Shi
-  - Jackson Melchert
-  - Azadeh Davoodi
-  publisher: IEEE Transactions on Very Large Scale Integration (VLSI) Systems
-  date: '2017-12-01'
-  link: https://doi.org/gtxrs4
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ASPDAC.2017.7858351

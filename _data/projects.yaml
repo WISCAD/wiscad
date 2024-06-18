@@ -4,7 +4,7 @@
   image: images/photo.jpg
   link: https://wiscad.ece.wisc.edu
   description: The goal of this project is to utilize the emerging field of Explainable Artificial Intelligence (XAI) to transform the utility of AI within the chip design process. 
-  repo: https://github.com/WISCAD
+  repo: greenelab/lab-website-template
   tags:
     - XAI
 
@@ -14,7 +14,7 @@
   image: images/photo.jpg
   link: https://wiscad.ece.wisc.edu
   description: In this project, new techniques will be investigated to directly deploy DNNs onto IoT devices, to perform a latency-constrained or energy-constrained inference. 
-  repo: https://github.com/WISCAD
+  repo: greenelab/lab-website-template
   tags:
     - data
 

@@ -7,7 +7,7 @@
   repo: greenelab/lab-website-template
 
 - title: Distributed DNN Inference
-  subtitle: Synthesis of Deep Neural Networks on distributed devices
+  subtitle: Distributed Inference for Deep Neural Networks
   group: featured
   image: images/DIME.jpg
   link: https://wiscad.ece.wisc.edu

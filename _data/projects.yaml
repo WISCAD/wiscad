@@ -9,7 +9,7 @@
 - title: Distributed DNN Inference
   subtitle: Synthesis of Deep Neural Networks on distributed devices
   group: featured
-  image: images/photo.jpg
+  image: images/DIME.jpg
   link: https://wiscad.ece.wisc.edu
   description: In this project, new techniques will be investigated to directly deploy DNNs onto IoT devices, to perform inference with consideration for latency and energy consumption.  repo: greenelab/lab-website-template
   tags:

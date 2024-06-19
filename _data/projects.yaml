@@ -11,7 +11,7 @@
   group: featured
   image: images/DIME.jpg
   link: https://wiscad.ece.wisc.edu
-  description: In this project, new techniques will be investigated to directly deploy DNNs onto IoT devices, to perform inference with consideration for latency and energy consumption.  repo: greenelab/lab-website-template
+  description: In this project, new techniques are investigated to directly deploy DNNs onto IoT devices, to perform inference with consideration for latency and energy consumption.  repo: greenelab/lab-website-template
   tags:
     - data
     - code

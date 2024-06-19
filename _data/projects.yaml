@@ -5,6 +5,8 @@
   link: https://wiscad.ece.wisc.edu
   description: The goal of this project is to utilize the emerging field of Explainable Artificial Intelligence (XAI) to transform the utility of AI within the chip design process. 
   repo: greenelab/lab-website-template
+  tags:
+    - XAI
 
 - title: Distributed DNN Inference
   subtitle: Distributed Inference for Deep Neural Networks

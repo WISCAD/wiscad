@@ -7,6 +7,16 @@
   repo: greenelab/lab-website-template
   tags:
     - resouce
+
+- title: Distributed DNN Inference
+  subtitle: distributed inference for Deep Neural Networks
+  group: featured
+  image: images/photo.jpg
+  link: https://wiscad.ece.wisc.edu
+  description: The goal of this project is to utilize the emerging field of Explainable Artificial Intelligence (XAI) to transform the utility of AI within the chip design process. 
+  repo: greenelab/lab-website-template
+  tags:
+    - resouce
     
 - title: Cool Tutorial
   subtitle: a subtitle

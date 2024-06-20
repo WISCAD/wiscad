@@ -21,23 +21,19 @@
   description:  This project is on studying the security of chip fabrication by an untrusted foundry. The fabrication technique, known as split manufacturing, is based on partial sharing of the chip design information with the untrusted foundry in order to protect the intellectual property of the chip. 
   repo: greenelab/lab-website-template
 
-
 - title: PostSiDebug
   subtitle: post-Si debug of timing errors
   image: images/photo.jpg
   description: Timing errors refer to those malfunctions which manifest in the form of setup and hold time violations on logic. The objective of this research is to bring automation to the debug process of timing errors. Our vision is to rely on few on-chip measurements to bring valuable information about the internal timing characteristics of the chip.
-  repo: greenelab/lab-website-template
 
 - title: GRCongestion
   subtitle: congestion analysis for GR
   image: images/photo.jpg
   link: https://github.com/
   description: In modern IC designs, several new factors contribute to routing congestion including significantly different wire size and spacing among the metal layers, sizes of inter-layer vias, various forms of routing blockages, local congestion due to pin density and wiring inside a global-cell, and virtual pins located at the higher metal layers. The objective of this research is to develop techniques for congestion analysis at the global routing stage, for rapid analysis, and for increasing the correlation with detailed routing.
-  repo: greenelab/lab-website-template
 
 - title: CAD4Variability
   subtitle: design automation with manufacturing-induced variations
   image: images/photo.jpg
   link: https://github.com/
   description: In modern IC design, smaller components are less tolerant to manufacturing-induced variations; their performance may turn out so poor that the IC may have to be entirely redesigned in order to meet the performance specs. This research aims to develop a framework for producing IC designs that are robust with respect to these imperfections. 
-  repo: greenelab/lab-website-template

@@ -3,7 +3,7 @@
   group: featured
   image: images/photo.jpg
   link: https://wiscad.ece.wisc.edu
-  description: In this project, new techniques are investigated to directly deploy DNNs onto IoT devices, to perform inference with consideration for latency and energy consumption.
+  description: The goal of this project is to utilize Explainable Artificial Intelligence (XAI) to take the use of AI within the chip design process to the next level. 
   repo: greenelab/lab-website-template
 
 - title: DistDNN
@@ -11,10 +11,8 @@
   group: featured
   image: images/photo.jpg
   link: https://wiscad.ece.wisc.edu
-  description: The goal of this project is to utilize Explainable Artificial Intelligence (XAI) to take the use of AI within the chip design process to the next level. 
+  description: In this project, new techniques are investigated to directly deploy DNNs onto IoT devices, to perform inference with consideration for latency and energy consumption.
   repo: greenelab/lab-website-template
-  tags:
-    - resource
     
 - title: SecLayout
   subtitle: Security of Split Manufacturing

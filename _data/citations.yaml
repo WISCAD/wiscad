@@ -494,6 +494,74 @@
   link: https://doi.org/gtzxqg
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1145/2541012.2541014
+  title: A fast and scalable multidimensional multiple-choice knapsack heuristic
+  authors:
+  - Hamid Shojaei
+  - Twan Basten
+  - Marc Geilen
+  - Azadeh Davoodi
+  publisher: ACM Transactions on Design Automation of Electronic Systems
+  date: '2013-10-01'
+  link: https://doi.org/gtz6rc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/MDAT.2013.2255913
+  title: A Sensor-Assisted Self-Authentication Framework for Hardware Trojan Detection
+  authors:
+  - Azadeh Davoodi
+  - Min Li
+  - Mohammad Tehranipoor
+  publisher: IEEE Design &amp; Test
+  date: '2013-10-01'
+  link: https://doi.org/gtz6rd
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TVLSI.2012.2205717
+  title: Collaborative Multiobjective Global Routing
+  authors:
+  - Hamid Shojaei
+  - Azadeh Davoodi
+  - Twan Basten
+  publisher: IEEE Transactions on Very Large Scale Integration (VLSI) Systems
+  date: '2013-07-01'
+  link: https://doi.org/gtz6rf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1155/2013/905493
+  title: Power-Driven Global Routing for Multisupply Voltage Domains
+  authors:
+  - Tai-Hsuan Wu
+  - Azadeh Davoodi
+  - Jeffrey T. Linderoth
+  publisher: VLSI Design
+  date: '2013-07-02'
+  link: https://doi.org/gb7zsg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.7873/DATE.2013.111
+  title: A Hybrid Approach for Fast and Accurate Trace Signal Selection for Post-Silicon
+    Debug
+  authors:
+  - Min Li
+  - Azadeh Davoodi
+  publisher: Design, Automation &amp; Test in Europe Conference &amp; Exhibition (DATE),
+    2013
+  date: '2013-01-01'
+  link: https://doi.org/gtz6rg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/2451916.2451940
+  title: Planning for local net congestion in global routing
+  authors:
+  - Hamid Shojaei
+  - Azadeh Davoodi
+  - Jeffrey Linderoth
+  publisher: Proceedings of the 2013 ACM International symposium on Physical Design
+  date: '2013-03-24'
+  link: https://doi.org/gtz6rh
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/ISQED.2015.7085480
   title: Automatic die placement and flexible I/O assignment in 2.5D IC design
   authors:

@@ -7,16 +7,6 @@
   repo: greenelab/lab-website-template
   tags:
     - resouce
-
-- title: Distributed DNN Inference
-  subtitle: distributed inference for Deep Neural Networks
-  group: featured
-  image: images/DIME.jpg
-  link: https://wiscad.ece.wisc.edu
-  description: In this project, new techniques are investigated to directly deploy DNNs onto IoT devices, to perform inference with consideration for latency and energy consumption.  repo: greenelab/lab-website-template
-  repo: greenelab/lab-website-template
-  tags:
-    - resouce
     
 - title: Cool Tutorial
   subtitle: a subtitle

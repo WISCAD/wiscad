@@ -595,3 +595,72 @@
   link: https://doi.org/gtzxqc
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1109/TCAD.2012.2187206
+  title: Post-Silicon Failing-Path Isolation Incorporating the Effects of Process
+    Variations
+  authors:
+  - ' Lin Xie'
+  - A. Davoodi
+  publisher: IEEE Transactions on Computer-Aided Design of Integrated Circuits and
+    Systems
+  date: '2012-07-01'
+  link: https://doi.org/gtz6sx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/2228360.2228487
+  title: Confidentiality preserving integer programming for global routing
+  authors:
+  - Hamid Shojaei
+  - Azadeh Davoodi
+  - Parmeswaran Ramanathan
+  publisher: Proceedings of the 49th Annual Design Automation Conference
+  date: '2012-06-03'
+  link: https://doi.org/gtz6sz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/DATE.2012.6176698
+  title: A sensor-assisted self-authentication framework for hardware trojan detection
+  authors:
+  - ' Min Li'
+  - A. Davoodi
+  - M. Tehranipoor
+  publisher: 2012 Design, Automation &amp; Test in Europe Conference &amp; Exhibition
+    (DATE)
+  date: '2012-03-01'
+  link: https://doi.org/gtz6s2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICCAD.2011.6105337
+  title: Congestion analysis for global routing via integer programming
+  authors:
+  - Hamid Shojaei
+  - Azadeh Davoodi
+  - Jeffrey T. Linderoth
+  publisher: 2011 IEEE/ACM International Conference on Computer-Aided Design (ICCAD)
+  date: '2011-11-01'
+  link: https://doi.org/fzcn3q
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TCAD.2010.2072670
+  title: Bound-Based Statistically-Critical Path Extraction Under Process Variations
+  authors:
+  - Lin Xie
+  - Azadeh Davoodi
+  publisher: IEEE Transactions on Computer-Aided Design of Integrated Circuits and
+    Systems
+  date: '2011-01-01'
+  link: https://doi.org/fw327v
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TCAD.2010.2066030
+  title: 'GRIP: Global Routing via Integer Programming'
+  authors:
+  - Tai-Hsuan Wu
+  - Azadeh Davoodi
+  - Jeffrey T. Linderoth
+  publisher: IEEE Transactions on Computer-Aided Design of Integrated Circuits and
+    Systems
+  date: '2011-01-01'
+  link: https://doi.org/dmbk5f
+  plugin: sources.py
+  file: sources.yaml

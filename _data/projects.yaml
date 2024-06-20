@@ -11,7 +11,7 @@
   group: featured
   image: images/photo.jpg
   link: https://wiscad.ece.wisc.edu
-  description: In this project, new techniques are investigated to directly deploy Deep Neural Networks (DNNs) onto IoT devices, to perform inference with consideration for latency and energy consumption.
+  description: In this project, new techniques are investigated to directly deploy Deep Neural Networks onto networked devices, to perform inference with consideration for latency and energy consumption.
   repo: greenelab/lab-website-template
     
 - title: SecLayout

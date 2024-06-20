@@ -6,17 +6,17 @@
   description: The goal of this project is to utilize the emerging field of Explainable Artificial Intelligence (XAI) to transform the utility of AI within the chip design process. 
   repo: greenelab/lab-website-template
   tags:
-    - resouce
+    - resource
 
 - title: Distributed DNN Inference
   subtitle: distributed inference for Deep Neural Networks
   group: featured
   image: images/photo.jpg
   link: https://wiscad.ece.wisc.edu
-  description: The goal of this project is to utilize the emerging field of Explainable Artificial Intelligence (XAI) to transform the utility of AI within the chip design process. 
+  description: In this project, new techniques are investigated to directly deploy DNNs onto IoT devices, to perform inference with consideration for latency and energy consumption.  repo: greenelab/lab-website-template
   repo: greenelab/lab-website-template
   tags:
-    - resouce
+    - resource
     
 - title: Cool Tutorial
   subtitle: a subtitle

@@ -8,8 +8,8 @@
   tags:
     - resource
 
-- title: XAI for Chip Design
-  subtitle: explainable AI for better VLSI chip design
+- title: Distributed DNN Inference
+  subtitle: distributed inference for Deep Neural Networks
   group: featured
   image: images/photo.jpg
   link: https://wiscad.ece.wisc.edu

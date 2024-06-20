@@ -664,3 +664,63 @@
   link: https://doi.org/dmbk5f
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1145/1840845.1840935
+  title: A pareto-algebraic framework for signal power optimization in global routing
+  authors:
+  - Hamid Shojaei
+  - Tai-Hsuan Wu
+  - Azadeh Davoodi
+  - Twan Basten
+  publisher: Proceedings of the 16th ACM/IEEE international symposium on Low power
+    electronics and design
+  date: '2010-08-18'
+  link: https://doi.org/djbhg8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/1837274.1837323
+  title: A parallel integer programming approach to global routing
+  authors:
+  - Tai-Hsuan Wu
+  - Azadeh Davoodi
+  - Jeffrey T. Linderoth
+  publisher: Proceedings of the 47th Design Automation Conference
+  date: '2010-06-13'
+  link: https://doi.org/c6mws6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/1837274.1837344
+  title: Post-silicon diagnosis of segments of failing speedpaths due to manufacturing
+    variations
+  authors:
+  - Lin Xie
+  - Azadeh Davoodi
+  - Kewal K. Saluja
+  publisher: Proceedings of the 47th Design Automation Conference
+  date: '2010-06-13'
+  link: https://doi.org/fcjn9j
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/1837274.1837371
+  title: Representative path selection for post-silicon timing prediction under variability
+  authors:
+  - Lin Xie
+  - Azadeh Davoodi
+  publisher: Proceedings of the 47th Design Automation Conference
+  date: '2010-06-13'
+  link: https://doi.org/fsf4f8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ASPDAC.2010.5419815
+  title: Runtime temperature-based power estimation for optimizing throughput of thermal-constrained
+    multi-core processors
+  authors:
+  - Dongkeun Oh
+  - Nam Sung Kim
+  - Charlie Chung Ping Chen
+  - Azadeh Davoodi
+  - ' Yu Hen Hu'
+  publisher: 2010 15th Asia and South Pacific Design Automation Conference (ASP-DAC)
+  date: '2010-01-01'
+  link: https://doi.org/dnssjb
+  plugin: sources.py
+  file: sources.yaml

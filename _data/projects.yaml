@@ -14,22 +14,19 @@
   description: In this project, new techniques are investigated to directly deploy Deep Neural Networks onto networked devices, to perform inference with consideration for latency and energy consumption.
   repo: greenelab/lab-website-template
     
-- title: SecLayout
-  subtitle: Security of Split Manufacturing
+- title: SecSplitMan
+  subtitle: securite of split manufacturing
   image: images/photo.jpg
   link: https://github.com/
   description:  This project is on studying the security of chip fabrication by an untrusted foundry. The fabrication technique, known as split manufacturing, is based on partial sharing of the chip design information with the untrusted foundry in order to protect the intellectual property of the chip. 
   repo: greenelab/lab-website-template
 
 
-- title: Cool Web App
-  subtitle: a subtitle
+- title: PostSiDebug
+  subtitle: post-silicon debug of timing errors
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Timing errors refer to those malfunctions which manifest in the form of setup and hold time violations on logic. The objective of this research is to bring automation to the debug process of timing errors. Our vision is to rely on few on-chip measurements to bring valuable information about the internal timing characteristics of the chip.
   repo: greenelab/lab-website-template
-  tags:
-    - software
 
 - title: Cool Web Server
   subtitle: a subtitle

@@ -4,8 +4,9 @@
   image: images/photo.jpg
   description: The goal of this project is to utilize Explainable Artificial Intelligence (XAI) to take the use of AI within the chip design process to the next level. 
   tags:
-    - NSF
+    - website
     - code
+    - NSF
 
 - title: DistDNN
   subtitle: distributed inference for DNNs
@@ -13,9 +14,10 @@
   image: images/photo.jpg
   description: In this project, new techniques are investigated to directly deploy Deep Neural Networks onto networked devices, to perform inference with consideration for latency and energy consumption.
   tags:
-    - NSF
+    - website
     - data
     - code
+    - NSF
     
 - title: SecSplitMan
   subtitle: securite of split manufacturing

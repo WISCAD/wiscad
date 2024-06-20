@@ -1,4 +1,4 @@
-- title: XAI for Chip Design
+- title: XAI-CAD
   subtitle: explainable AI for better VLSI chip design
   group: featured
   image: images/photo.jpg
@@ -6,7 +6,7 @@
   description: In this project, new techniques are investigated to directly deploy DNNs onto IoT devices, to perform inference with consideration for latency and energy consumption.
   repo: greenelab/lab-website-template
 
-- title: Distributed DNN Inference
+- title: DistDNN
   subtitle: distributed inference for Deep Neural Networks
   group: featured
   image: images/photo.jpg
@@ -16,15 +16,13 @@
   tags:
     - resource
     
-- title: Cool Tutorial
-  subtitle: a subtitle
+- title: SecLayout
+  subtitle: Security of Split Manufacturing
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description:  This project is on studying the security of chip fabrication by an untrusted foundry. The fabrication technique, known as split manufacturing, is based on partial sharing of the chip design information with the untrusted foundry in order to protect the intellectual property of the chip. 
   repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
+
 
 - title: Cool Web App
   subtitle: a subtitle

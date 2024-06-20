@@ -8,6 +8,16 @@
   tags:
     - resource
 
+- title: XAI for Chip Design
+  subtitle: explainable AI for better VLSI chip design
+  group: featured
+  image: images/photo.jpg
+  link: https://wiscad.ece.wisc.edu
+  description: The goal of this project is to utilize the emerging field of Explainable Artificial Intelligence (XAI) to transform the utility of AI within the chip design process. 
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
+    
 - title: Cool Tutorial
   subtitle: a subtitle
   image: images/photo.jpg

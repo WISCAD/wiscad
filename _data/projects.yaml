@@ -6,7 +6,6 @@
   tags:
     - website
     - code
-    - NSF
 
 - title: DistDNN
   subtitle: distributed inference for DNNs
@@ -17,7 +16,6 @@
     - website
     - data
     - code
-    - NSF
     
 - title: SecSplitMan
   subtitle: securite of split manufacturing
@@ -28,22 +26,16 @@
   tags:
     - website
     - code
-    - NSF
-    - SRC
 
 - title: GR-DR
   subtitle: bridging the gap between GR and DR
   image: images/photo.jpg
   description: This project aims to develop CAD tools that incorporate major design rules within a key, higher stage of the design flow, namely the global routing stage with the aim to bridge the gap with the lower detailed routing stage.
-  tags:
-    - NSF
   
 - title: PostSiDebug
   subtitle: post-Si debug of timing errors
   image: images/photo.jpg
   description: Timing errors refer to those malfunctions which manifest in the form of setup and hold time violations on logic. The objective of this research is to bring automation to the debug process of timing errors. Our vision is to rely on few on-chip measurements to bring valuable information about the internal timing characteristics of the chip.
-  tags:
-    - NSF
 
 - title: GRCongestion
   subtitle: congestion analysis for GR
@@ -55,13 +47,11 @@
   image: images/photo.jpg
   description: With the aid of large-scale parallelism provided by computational grids, the research aims to demonstrate that the use of a computational technique called integer programming, which was previously viewed as too time-consuming for global routing, can help generate significantly higher quality solutions while meeting practical runtime requirements. 
   tags:
-    - NSF
     - data
 
 - title: CAD4Variability
   subtitle: design automation with manufacturing-induced variations
   image: images/photo.jpg
   description: In modern IC design, smaller components are less tolerant to manufacturing-induced variations; their performance may turn out so poor that the IC may have to be entirely redesigned in order to meet the performance specs. This research aims to develop a framework for producing IC designs that are robust with respect to these imperfections. 
-  tags:
-    - NSF
+
 

@@ -1,1 +1,1 @@
-Sitemap: http://wiscad.ece.wisc.edu/sitemap.xml
+Sitemap: https://wiscad.github.io/wiscad/sitemap.xml

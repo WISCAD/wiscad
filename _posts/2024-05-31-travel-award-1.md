@@ -1,6 +1,4 @@
 ---
-title: Travel Awards
-author: azadeh-davoodi
 tags:
   - MLSys
   - SmartComp

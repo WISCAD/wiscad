@@ -425,6 +425,15 @@
   link: https://arxiv.org/abs/1811.00056
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1007/978-3-319-68511-3_9
+  title: Golden-Free Trojan Detection
+  authors:
+  - Azadeh Davoodi
+  publisher: The Hardware Trojan War
+  date: '2017-11-30'
+  link: https://doi.org/gt4rdk
+  plugin: sources.py
+  file: sources.yaml
 - id: arxiv:1811.04151
   title: Design Rule Violation Hotspot Prediction Based on Neural Network Ensembles
   authors:

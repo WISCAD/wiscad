@@ -3,19 +3,12 @@
   group: featured
   image: images/photo.jpg
   description: The goal of this project is to utilize Explainable Artificial Intelligence (XAI) to take the use of AI within the chip design process to the next level by allowing AI-based explainability to guide optimization. 
-  tags:
-    - website
-    - code
 
 - title: DistDNN
   subtitle: distributed inference for DNNs
   group: featured
   image: images/photo.jpg
   description: In this project, new techniques are investigated to directly deploy Deep Neural Networks onto networked devices, to perform inference with consideration for latency and energy consumption.
-  tags:
-    - website
-    - data
-    - code
     
 - title: SecSplitMan
   subtitle: securite of split manufacturing
@@ -23,9 +16,6 @@
   link: https://cadforassurance.org/tools/design-for-trust/analysis-of-security-of-split-manufacturing-using-machine-learning/
   description:  This project is on studying the security of chip fabrication by an untrusted foundry. The fabrication technique, known as split manufacturing, is based on partial sharing of the chip design information with the untrusted foundry in order to protect the intellectual property of the chip. 
   repo: wei-zeng/SplitMan-TVLSI19
-  tags:
-    - website
-    - code
 
 - title: GR-DR
   subtitle: bridging the gap between GR and DR
@@ -46,8 +36,7 @@
   subtitle: parallel global routing
   image: images/photo.jpg
   description: With the aid of large-scale parallelism provided by computational grids, the research aims to demonstrate that the use of a computational technique called integer programming, which was previously viewed as too time-consuming for global routing, can help generate significantly higher quality solutions while meeting practical runtime requirements. 
-  tags:
-    - data
+
 
 - title: CAD4Variability
   subtitle: design automation with manufacturing-induced variations

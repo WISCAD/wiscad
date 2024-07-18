@@ -10,8 +10,6 @@ links:
   home-page: https://www.linkedin.com/in/maedeh-hemmat-55a22754/
 ---
 
-Dissertation: "Efficient Implementation of Neural Networks on Resource-Constrained Devices", defense date: 12/23/2021.
+Dissertation: "Bridging the gap between global and detailed routing of Integrated Circuits", defense date: 12/06/2016.
 
-First Emplyment: Google. 
-
-Publications: ICCD'18, ISQED'19, VLSI Integration'19, DAC'20, TCAD'20, ASPDAC'22, TEC'22
+First Emplyment: Cadence. 

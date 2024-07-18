@@ -1,6 +1,5 @@
 ---
 name: Tai-Hsuan Wu
-image: images/taihsuan-wu.jpg
 role: alum
 aliases:
   - T. Wu

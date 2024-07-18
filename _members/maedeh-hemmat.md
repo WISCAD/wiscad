@@ -1,6 +1,7 @@
 ---
 name: Maedeh Hemmat
-role: alum
+role: phd
+group: alum
 aliases:
   - M. Hemmat
   - M Hemmat

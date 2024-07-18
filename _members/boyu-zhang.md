@@ -1,6 +1,6 @@
 ---
 name: Boyu
-role: alum
+role: Zhang
 aliases:
   - B. Zhang
   - B Zhang

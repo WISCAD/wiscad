@@ -7,7 +7,7 @@ aliases:
   - M Li
   - Min Li
 links:
-  home-page: https://www.linkedin.com/in/boyu-zhang-a014418b/
+  home-page: https://www.linkedin.com/in/min-li-425b5242/
 ---
 
 Dissertation: "Trace signal selection for post-silicon debug", defense date: 06/30/2014

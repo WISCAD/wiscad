@@ -659,6 +659,15 @@
   link: https://doi.org/fzcn3q
   plugin: sources.py
   file: sources.yaml
+- id: isbn:978-3-9810801-8-6
+  title: '2012 Design, Automation & Test in Europe Conference & Exhibition (DATE 2012):
+    Dresden, Germany, 12 - 16 March 2012 ; [proceedings]'
+  authors: []
+  publisher: IEEE
+  date: '2012-01-01'
+  link: ''
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/TCAD.2010.2072670
   title: Bound-Based Statistically-Critical Path Extraction Under Process Variations
   authors:

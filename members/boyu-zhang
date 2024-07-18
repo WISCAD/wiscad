@@ -593,7 +593,7 @@
 
 
   <div class="button-wrapper">
-    <a class="button" href="https://directory.engr.wisc.edu/ece/Faculty/Davoodi_Azadeh/" data-tooltip="Home page" data-style="bare" aria-label="Home page">
+    <a class="button" href="https://www.linkedin.com/in/boyu-zhang-a014418b/" data-tooltip="Home page" data-style="bare" aria-label="Home page">
       <i class="icon fa-solid fa-house-user"></i>
       
         <span>Home Page</span>
@@ -603,30 +603,15 @@
 
 <br />
   
-    
-    
-    
-
-
-
-  <div class="button-wrapper">
-    <a class="button" href="https://orcid.org/0000-0001-8713-9213" data-tooltip="ORCID" data-style="bare" aria-label="ORCID">
-      <i class="icon fa-brands fa-orcid"></i>
-      
-        <span>ORCID</span>
-      
-    </a>
-  </div>
-
-<br />
-  
 </div>
 
 
 </div>
 
 
-Azadeh Davoodi is Professor of Electrical and Computer Engineering at the University of Wisconsin Madison. Her primary research interests are in Electronic Design Automation (EDA) and debug of Integrated Circuits. Azadeh is recipient of a 2011 NSF CAREER award, a 2015 ACM Transactions on Design Automation of Electronic Systems best paper award, and a 2010 Design Automation Conference best paper candidate. Her first PhD graduate, Lin Xie, won the 2011 Harold A. Peterson ECE Best Dissertation Award at UW-Madison. Azadeh received her PhD degree in Electrical and Computer Engineering from the University of Maryland College Park where she was awarded a University of Maryland Graduate School Dissertation Fellowship. She was selected as Honored Instructor by students of the University Housing for teaching ECE/CS352 in 2010. Azadeh served as Associate Editor of IEEE Transactions on CAD in 2014-2015, and for ACM TODAES in 2015-2016, Integration VLSI journal in 2018-2019, and has been serving as Associate Editors of ACM TRETS since 2019, and IEEE TCAD since 2024. She served as General Chair of ISPD 2015 and as the Steering Committe chair of ISPD 2016. She also served as TPC Chair of ISPD 2014, Track Chair of ICCD (2010-2012), DATE (2011-2013), Track Chair of ISLPED (2023-2024), and TPC member in over 10 EDA-related conferences and workshops including DAC, ICCAD, ASPDAC, DATE, ISLPED, ISQED, ISPD, ICCD, GLSVLSI, ASQED, IWLS, SLIP, DuHDE. Azadeh is a senior member of IEEE and IEEE HKN (honor society of IEEE). She won the Vilas Associates competition at campus-level for 2022-2023. Azadeh has been serving as Associate Chair for Undergraduate Studies at the ECE department since July 2023.
+Dissertation: "Towards deploment of Deep Neural Networks on resource-constrained embedded systems", defense date: 08/26/2019.
+First Emplyment: Google 
+Publications: DATE'17, ASPDAC'18, DAC'18, GLSVLSI'18, JETCAS'18, TVLSI'19, IEEE D&T'20, COINS'20
 
 
 
@@ -634,7 +619,7 @@ Azadeh Davoodi is Professor of Electrical and Computer Engineering at the Univer
 
 
 <p class="center">
-  <a href="/wiscad/research/?search=%22A.%20Davoodi%22%20%22A%20Davoodi%22%20%22Azadeh%20Davoodi%22%20">
+  <a href="/wiscad/research/?search=%22B.%20Zhang%22%20%22B%20Zhang%22%20%22Boyu%20Zhang%22%20">
     Search for Boyu's papers on the Research page
   </a>
 </p>

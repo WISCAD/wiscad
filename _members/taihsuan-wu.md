@@ -13,4 +13,4 @@ Dissertation: "A parallel integer programming approach to global routing", defen
 
 First Emplyment: Intel
 
-First author of Best Paper Candidate at DAC'10
+Best Paper Candidate of DAC'10

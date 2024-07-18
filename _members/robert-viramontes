@@ -3,7 +3,7 @@ name: Robert Viramontes
 image: images/photo.jpg
 role: phd
 links:
-  https://www.linkedin.com/in/robert-viramontes/
+  home-page: https://www.linkedin.com/in/robert-viramontes/
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

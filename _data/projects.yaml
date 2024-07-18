@@ -19,7 +19,7 @@
     
 - title: SecSplitMan
   subtitle: securite of split manufacturing
-  image: images/SecSplitMan.jpg
+  image: images/photo.jpg
   link: https://cadforassurance.org/tools/design-for-trust/analysis-of-security-of-split-manufacturing-using-machine-learning/
   description:  This project is on studying the security of chip fabrication by an untrusted foundry. The fabrication technique, known as split manufacturing, is based on partial sharing of the chip design information with the untrusted foundry in order to protect the intellectual property of the chip. 
   repo: wei-zeng/SplitMan-TVLSI19

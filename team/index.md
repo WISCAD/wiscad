@@ -20,8 +20,8 @@ Past Members
 
 {% capture content %}
 
-{% include list.html data="alumni" component="portrait" filters="role: alumni" %}
-{% include list.html data="alumni" component="portrait" filters="role: ^(?!alumni$)" %}
+{% include list.html data="alumni" component="portrait" filters="role: pi" %}
+{% include list.html data="alumni" component="portrait" filters="role: ^(?!pi$)" %}
 
 {% endcapture %}
 

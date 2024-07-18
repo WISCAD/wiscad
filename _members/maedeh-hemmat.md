@@ -1,6 +1,7 @@
 ---
 name: Maedeh Hemmat
 role: alum
+image: images/maedeh-hemmat.jpg
 aliases:
   - M. Hemmat
   - M Hemmat

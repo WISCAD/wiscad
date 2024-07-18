@@ -6,7 +6,7 @@ aliases:
   - M Hemmat
   - Maedeh Hemmat
 links:
-  home-page: https://www.linkedin.com/in/boyu-zhang-a014418b/
+  home-page: https://www.linkedin.com/in/maedeh-hemmat-55a22754/
 ---
 
 Dissertation: "Efficient Implementation of Neural Networks on Resource-Constrained Devices", defense date: 12/23/2021.

@@ -1,6 +1,7 @@
 ---
 name: Boyu
-role: alum
+role: PhD
+group: alum
 aliases:
   - B. Zhang
   - B Zhang

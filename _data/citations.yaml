@@ -754,3 +754,12 @@
   link: ''
   plugin: sources.py
   file: sources.yaml
+- id: isbn:978-1-4577-2145-8
+  title: '2012 Design, Automation & Test in Europe Conference & Exhibition (DATE 2012):
+    Dresden, Germany, 12 - 16 March 2012 ; [proceedings]'
+  authors: []
+  publisher: IEEE
+  date: '2012-01-01'
+  link: ''
+  plugin: sources.py
+  file: sources.yaml

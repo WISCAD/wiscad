@@ -11,4 +11,4 @@ links:
 ---
 Dissertation: "Efficient Implementation of Neural Networks on Resource-Constrained Devices", defense date: 12/23/2021
 
-First Emplyment: Google
+First Emplyment: Cadence

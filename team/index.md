@@ -14,7 +14,7 @@ nav:
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Past Members
+# {% include icon.html icon="fa-solid fa-users" %}Alumni
 
 {% include section.html %}
 

@@ -1,5 +1,6 @@
 ---
 name: Boyu Zhang
+image: images/boyu-zhang.jpg
 role: alum
 aliases:
   - B. Zhang

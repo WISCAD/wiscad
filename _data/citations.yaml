@@ -279,6 +279,15 @@
   link: https://doi.org/gtxrdf
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1007/978-3-319-98116-1_5
+  title: Hybrid Signal Selection
+  authors:
+  - Azadeh Davoodi
+  publisher: Post-Silicon Validation and Debug
+  date: '2018-09-02'
+  link: https://doi.org/gt4rdj
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/ASPDAC.2018.8297345
   title: Exploring energy and accuracy tradeoff in structure simplification of trained
     deep neural networks

@@ -11,6 +11,6 @@ links:
 
 Dissertation: "A parallel integer programming approach to global routing", defense date: 05/23/2011
 
-First Emplyment: Intel
+First Employment: Intel
 
 Best Paper Candidate of DAC'10

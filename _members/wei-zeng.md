@@ -12,4 +12,4 @@ links:
 
 Dissertation: "Explainable Artificial Intelligence for Better Design of Very Large Scale Integrated Circuits"", defense date: 8/12/2021
 
-First Emplyment: Synopsys 
+First Employment: Synopsys 

@@ -11,6 +11,6 @@ links:
 
 Dissertation: "Post-silicon timing diagnosis under process variations", defense date: 08/03/2010
 
-First Emplyment: Cadence
+First Employment: Cadence
 
 Winner of the 2011 Harold A. Peterson ECE Best Dissertation Award at UW-Madison

@@ -760,3 +760,76 @@
   link: ''
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1109/TCAD.2009.2028682
+  title: 'PaRS: Parallel and Near-Optimal Grid-Based Cell Sizing for Library-Based
+    Design'
+  authors:
+  - Tai-Hsuan Wu
+  - Azadeh Davoodi
+  publisher: IEEE Transactions on Computer-Aided Design of Integrated Circuits and
+    Systems
+  date: '2009-11-01'
+  link: https://doi.org/d3npr7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TCAD.2009.2018874
+  title: Adjustment-Based Modeling for Timing Analysis Under Variability
+  authors:
+  - ' Lin Xie'
+  - A. Davoodi
+  - ' Jun Zhang'
+  - ' Tai-Hsuan Wu'
+  publisher: IEEE Transactions on Computer-Aided Design of Integrated Circuits and
+    Systems
+  date: '2009-07-01'
+  link: https://doi.org/ddmdsc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/1594233.1594247
+  title: Statistical static timing analysis considering leakage variability in power
+    gated designs
+  authors:
+  - Michael J. Anderson
+  - Azadeh Davoodi
+  - Jungseob Lee
+  - Abhishek Sinkar
+  - Nam Sung Kim
+  publisher: Proceedings of the 2009 ACM/IEEE international symposium on Low power
+    electronics and design
+  date: '2009-08-19'
+  link: https://doi.org/dcwzrw
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/1629911.1629999
+  title: GRIP
+  authors:
+  - Tai-Hsuan Wu
+  - Azadeh Davoodi
+  - Jeffrey T. Linderoth
+  publisher: Proceedings of the 46th Annual Design Automation Conference
+  date: '2009-07-26'
+  link: https://doi.org/dfdctg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/VTS.2009.17
+  title: False Path Aware Timing Yield Estimation under Variability
+  authors:
+  - Lin Xie
+  - Azadeh Davoodi
+  - Kewal K. Saluja
+  - Abhishek Sinkar
+  publisher: 2009 27th IEEE VLSI Test Symposium
+  date: '2009-05-01'
+  link: https://doi.org/ctpp62
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ASPDAC.2009.4796493
+  title: Bound-based identification of timing-violating paths under variability
+  authors:
+  - ' Lin Xie'
+  - ' Azadeh Davoodi'
+  publisher: 2009 Asia and South Pacific Design Automation Conference
+  date: '2009-01-01'
+  link: https://doi.org/d3kcq4
+  plugin: sources.py
+  file: sources.yaml

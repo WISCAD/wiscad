@@ -12,4 +12,4 @@ links:
 
 Dissertation: "Trace signal selection for post-silicon debug", defense date: 06/30/2014
 
-First Emplyment: Synopsys 
+First Employment: Synopsys 

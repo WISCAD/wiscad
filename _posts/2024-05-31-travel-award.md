@@ -5,4 +5,4 @@ tags:
   - DAC
 ---
 
-Congratulations to Robert for winning multiple travel awards to present his PhD research at DAC PhD Forum, SmartComp and MLSys Young Professional Symposium.
+Congratulations to Robert and Lizi for winning multiple travel awards to present their research at DAC, SmartComp and MLSys.

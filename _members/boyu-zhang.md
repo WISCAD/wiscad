@@ -12,4 +12,4 @@ links:
 
 Dissertation: "Towards deploment of Deep Neural Networks on resource-constrained embedded systems", defense date: 08/26/2019
 
-First Emplyment: Google 
+First Employment: Google 

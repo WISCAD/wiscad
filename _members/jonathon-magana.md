@@ -12,4 +12,4 @@ links:
 
 Dissertation: "Analysis of the security of split manufacturing of Integrated Circuits", defense date: 08/26/2019.
 
-First Emplyment: Assistant Professor at the Milwaukee School of Engineering 
+First Employment: Assistant Professor at the Milwaukee School of Engineering 

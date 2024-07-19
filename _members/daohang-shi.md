@@ -11,4 +11,4 @@ links:
 ---
 Dissertation: "Bridging the gap between global and detailed routing of Integrated Circuits", defense date: 12/06/2016
 
-First Emplyment: Cadence
+First Employment: Cadence

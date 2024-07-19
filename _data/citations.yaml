@@ -815,3 +815,106 @@
   link: https://doi.org/d3kcq4
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1109/ISQED.2008.4479718
+  title: Robust Estimation of Timing Yield with Partial Statistical Information on
+    Process Variations
+  authors:
+  - Lin Xie
+  - Azadeh Davoodi
+  publisher: 9th International Symposium on Quality Electronic Design (isqed 2008)
+  date: '2008-03-01'
+  link: https://doi.org/ffxbgv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/1393921.1393937
+  title: A parallel and randomized algorithm for large-scale discrete dual-Vt assignment
+    and continuous gate sizing
+  authors:
+  - Tai-Hsuan Wu
+  - Lin Xie
+  - Azadeh Davoodi
+  publisher: Proceeding of the thirteenth international symposium on Low power electronics
+    and design - ISLPED '08
+  date: '2008-01-01'
+  link: https://doi.org/cq3tzh
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/1146909.1147152
+  title: Variability driven gate sizing for binning yield optimization
+  authors:
+  - Azadeh Davoodi
+  - Ankur Srivastava
+  publisher: Proceedings of the 43rd annual conference on Design automation  - DAC
+    '06
+  date: '2006-01-01'
+  link: https://doi.org/db8dvx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1049/iet-cds:20070189
+  title: Fast and accurate statistical static timing analysis with skewed process
+    parameter variation
+  authors:
+  - L. Xie
+  - A. Davoodi
+  publisher: IET Circuits, Devices &amp; Systems
+  date: '2008-01-01'
+  link: https://doi.org/ff3c2p
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICCAD.2008.4681571
+  title: Adjustment-based modeling for Statistical Static Timing Analysis with high
+    dimension of variability
+  authors:
+  - ' Lin Xie'
+  - Azadeh Davoodi
+  - Jun Zhang
+  - ' Tai-Hsuan Wu'
+  publisher: 2008 IEEE/ACM International Conference on Computer-Aided Design
+  date: '2008-11-01'
+  link: https://doi.org/c42ws3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICCAD.2008.4681559
+  title: 'PaRS: Fast and near-optimal grid-based cell sizing for library-based design'
+  authors:
+  - ' Tai-Hsuan Wu'
+  - Azadeh Davoodi
+  publisher: 2008 IEEE/ACM International Conference on Computer-Aided Design
+  date: '2008-11-01'
+  link: https://doi.org/fhg3qv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICCD.2008.4751915
+  title: 'SynECO: Incremental technology mapping with constrained placement and fast
+    detail routing for predictable timing improvement'
+  authors:
+  - Anuj Kumar
+  - Tai-Hsuan Wu
+  - Azadeh Davoodi
+  publisher: 2008 IEEE International Conference on Computer Design
+  date: '2008-10-01'
+  link: https://doi.org/fh7zxt
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ISCAS.2008.4541484
+  title: A Dual-Vt low leakage SRAM array robust to process variations
+  authors:
+  - ' Jungseob Lee'
+  - ' Lin Xie'
+  - Azadeh Davoodi
+  publisher: 2008 IEEE International Symposium on Circuits and Systems (ISCAS)
+  date: '2008-05-01'
+  link: https://doi.org/d69q7q
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ISQED.2008.4479825
+  title: Fast and Accurate Statistical Static Timing Analysis with Skewed Process
+    Parameter Variation
+  authors:
+  - Lin Xie
+  - Azadeh Davoodi
+  publisher: 9th International Symposium on Quality Electronic Design (isqed 2008)
+  date: '2008-03-01'
+  link: https://doi.org/cqb94n
+  plugin: sources.py
+  file: sources.yaml

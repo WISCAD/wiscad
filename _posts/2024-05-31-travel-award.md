@@ -1,5 +1,4 @@
 ---
-title: Travel Awards
 tags:
   - MLSys
   - SmartComp

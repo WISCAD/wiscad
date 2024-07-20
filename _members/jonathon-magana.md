@@ -6,6 +6,8 @@ aliases:
   - J. Magaña
   - J Magaña
   - J Magaña
+  - Jonathon Magana
+  - Jonathon Magaña
 links:
   home-page: https://www.linkedin.com/in/jonathonmagana/
 ---

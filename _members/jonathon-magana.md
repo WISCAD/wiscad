@@ -3,9 +3,9 @@ name: Jonathon Magaña
 image: images/jonathon-magana.jpg
 role: alum
 aliases:
-  - J. Magana
-  - J Magana
-  - J Magana
+  - J. Magaña
+  - J Magaña
+  - J Magaña
 links:
   home-page: https://www.linkedin.com/in/jonathonmagana/
 ---

@@ -918,3 +918,255 @@
   link: https://doi.org/cqb94n
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1109/ICCD.2007.4601886
+  title: Statistical timing analysis using Kernel smoothing
+  authors:
+  - Jennifer L. Wong
+  - Azadeh Davoodi
+  - Vishal Khandelwal
+  - Ankur Srivastava
+  - Miodrag Potkonjak
+  publisher: 2007 25th International Conference on Computer Design
+  date: '2007-10-01'
+  link: https://doi.org/c9dw2c
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ISCAS.2007.377982
+  title: Comparison of Dual-Vt Configurations of SRAM Cell Considering Process-Induced
+    Vt Variations
+  authors:
+  - Jungseob Lee
+  - Azadeh Davoodi
+  publisher: 2007 IEEE International Symposium on Circuits and Systems (ISCAS)
+  date: '2007-05-01'
+  link: https://doi.org/cs9c6p
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/VLSID.2007.176
+  title: Variability Driven Joint Leakage-Delay Optimization Through Gate Sizing with
+    Provabale Convergence
+  authors:
+  - Ashish Dobhal
+  - Vishal Khandelwal
+  - Azadeh Davoodi
+  - Ankur Srivastava
+  publisher: 20th International Conference on VLSI Design held jointly with 6th International
+    Conference on Embedded Systems (VLSID'07)
+  date: '2007-01-01'
+  link: https://doi.org/cc99zr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TCAD.2006.882529
+  title: Probabilistic Evaluation of Solutions in Variability-Driven Optimization
+  authors:
+  - Azadeh Davoodi
+  - Vishal Khandelwal
+  - Ankur Srivastava
+  publisher: IEEE Transactions on Computer-Aided Design of Integrated Circuits and
+    Systems
+  date: '2006-12-01'
+  link: https://doi.org/c4xx8n
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1155/ES/2006/31605
+  title: FPGA Dynamic Power Minimization through Placement and Routing Constraints
+  authors:
+  - Li Wang
+  - Matthew French
+  - Azadeh Davoodi
+  - Deepak Agarwal
+  publisher: EURASIP Journal on Embedded Systems
+  date: '2006-01-01'
+  link: https://doi.org/cx7r6x
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TCAD.2005.855885
+  title: A statistical methodology for wire-length prediction
+  authors:
+  - J.L. Wong
+  - A. Davoodi
+  - V. Khandelwal
+  - A. Srivastava
+  - M. Potkonjak
+  publisher: IEEE Transactions on Computer-Aided Design of Integrated Circuits and
+    Systems
+  date: '2006-07-01'
+  link: https://doi.org/bf24xq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/1124713.1124718
+  title: Effective techniques for the generalized low-power binding problem
+  authors:
+  - Azadeh Davoodi
+  - Ankur Srivastava
+  publisher: ACM Transactions on Design Automation of Electronic Systems
+  date: '2006-01-01'
+  link: https://doi.org/cdwmhp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/1123008.1123013
+  title: Probabilistic evaluation of solutions in variability-driven optimization
+  authors:
+  - Azadeh Davoodi
+  - Ankur Srivastava
+  publisher: Proceedings of the 2006 international symposium on Physical design
+  date: '2006-04-09'
+  link: https://doi.org/bcsng2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TVLSI.2005.853618
+  title: 'Power-driven simultaneous resource binding and floorplanning: a probabilistic
+    approach'
+  authors:
+  - A. Davoodi
+  - A. Srivastava
+  publisher: IEEE Transactions on Very Large Scale Integration (VLSI) Systems
+  date: '2005-08-01'
+  link: https://doi.org/fn7s98
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/LPE.2003.1231851
+  title: Simultaneous Vt selection and assignment for leakage optimization
+  authors:
+  - Ankur Srivastava
+  publisher: Proceedings of the 2003 international symposium on Low power electronics
+    and design  - ISLPED '03
+  date: '2003-01-01'
+  link: https://doi.org/fkjc9t
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/1059876.1059884
+  title: 'Voltage scheduling under unpredictabilities: a risk management paradigm'
+  authors:
+  - Azadeh Davoodi
+  - Ankur Srivastava
+  publisher: ACM Transactions on Design Automation of Electronic Systems
+  date: '2005-04-01'
+  link: https://doi.org/dwg55h
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICCD.2005.114
+  title: Variability-driven buffer insertion considering correlations
+  authors:
+  - A. Davoodi
+  - A. Srivastava
+  publisher: 2005 International Conference on Computer Design
+  date: ''
+  link: https://doi.org/c4q9nw
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/1077603.1077641
+  title: Probabilistic dual-Vth leakage optimization under variability
+  authors:
+  - Azadeh Davoodi
+  - Ankur Srivastava
+  publisher: Proceedings of the 2005 international symposium on Low power electronics
+    and design  - ISLPED '05
+  date: '2005-01-01'
+  link: https://doi.org/bdjx66
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ASPDAC.2005.1466478
+  title: Wake-up protocols for controlling current surges in MTCMOS-based technology
+  authors:
+  - ' Azadeh Davoodi'
+  - ' Ankur Srivastava'
+  publisher: Proceedings of the ASP-DAC 2005. Asia and South Pacific Design Automation
+    Conference, 2005.
+  date: ''
+  link: https://doi.org/b6jckb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/1120725.1120952
+  title: Simultaneous floorplanning and resource binding
+  authors:
+  - Azadeh Davoodi
+  - Ankur Srivastava
+  publisher: Proceedings of the 2005 conference on Asia South Pacific design automation  -
+    ASP-DAC '05
+  date: '2005-01-01'
+  link: https://doi.org/bvdkd3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TVLSI.2004.834235
+  title: Empirical models for net-length probability distribution and applications
+  authors:
+  - A. Davoodi
+  - V. Khandelwal
+  - A. Srivastava
+  publisher: IEEE Transactions on Very Large Scale Integration (VLSI) Systems
+  date: '2004-10-01'
+  link: https://doi.org/fpjmvz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICCAD.2004.1382612
+  title: Variability inspired implementation selection problem
+  authors:
+  - A. Davoodi
+  - V. Khandelwal
+  - A. Srivastava
+  publisher: IEEE/ACM International Conference on Computer Aided Design, 2004. ICCAD-2004.
+  date: ''
+  link: https://doi.org/dp73w6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICCAD.2004.1382666
+  title: Wire-length prediction using statistical techniques
+  authors:
+  - J.L. Wong
+  - A. Davoodi
+  - V. Khandelwal
+  - A. Srivastava
+  - M. Potkonjak
+  publisher: IEEE/ACM International Conference on Computer Aided Design, 2004. ICCAD-2004.
+  date: ''
+  link: https://doi.org/bqvq46
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICCAD.2004.1382623
+  title: Efficient statistical timing analysis through error budgeting
+  authors:
+  - V. Khandelwal
+  - A. Davoodi
+  - A. Srivastava
+  publisher: IEEE/ACM International Conference on Computer Aided Design, 2004. ICCAD-2004.
+  date: ''
+  link: https://doi.org/d7s6v3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/988952.988957
+  title: High level techniques for power-grid noise immunity
+  authors:
+  - Azadeh Davoodi
+  - Vishal Khandelwal
+  - Ankur Srivastava
+  publisher: Proceedings of the 14th ACM Great Lakes symposium on VLSI
+  date: '2004-04-26'
+  link: https://doi.org/d2gtb9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICCAD.2003.159738
+  title: A probabilistic approach to buffer insertion
+  authors:
+  - V. Khandelwal
+  - A. Davoodi
+  - A. Nanavati
+  - A. Srivastava
+  publisher: ICCAD-2003. International Conference on Computer Aided Design (IEEE Cat.
+    No.03CH37486)
+  date: '2003-01-01'
+  link: https://doi.org/gt4tdw
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/LPE.2003.1231852
+  title: Effective graph theoretic techniques for the generalized low power binding
+    problem [IC high level synthesis]
+  authors:
+  - A. Davoodi
+  - A. Srivastava
+  publisher: Proceedings of the 2003 International Symposium on Low Power Electronics
+    and Design, 2003. ISLPED '03.
+  date: ''
+  link: https://doi.org/bb8b34
+  plugin: sources.py
+  file: sources.yaml

@@ -1,5 +1,5 @@
 ---
-name: Daniel P. Seemuth
+name: Daniel Seemuth
 role: alum
 image: images/daniel-seemuth.jpg
 aliases:

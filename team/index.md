@@ -20,9 +20,9 @@ nav:
 
 {% capture content %}
 
-[Maedeh Hemmat, PhD'21](https://wiscad.github.io/wiscad/members/maedeh-hemmat.html)
+**[Maedeh Hemmat, PhD'21](https://wiscad.github.io/wiscad/members/maedeh-hemmat.html)**
 
-{% include list.html data="members" component="portrait" filters="name: Wei Zeng" %}
+**[Wei Zeng, PhD'21](https://wiscad.github.io/wiscad/members/wei-zeng.html)**
 
 {% include list.html data="members" component="portrait" filters="name: Boyu Zhang" %}
 

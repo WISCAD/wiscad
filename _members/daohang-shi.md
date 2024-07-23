@@ -13,4 +13,4 @@ Dissertation: "Bridging the gap between global and detailed routing of Integrate
 
 First Employment: Cadence
 
-Release software: [TraPL](https://github.com/WISCAD/TRAPL)
+Released software: [TraPL](https://github.com/WISCAD/TRAPL)

@@ -60,7 +60,7 @@
 
 - title: Parallel GR
   subtitle: parallel global routing
-  image: images/grip.jpg
+  image: images/pgrip.jpg
   description: With the aid of large-scale parallelism provided by computational grids, the research aims to demonstrate that the use of a computational technique called integer programming, which was previously viewed as too time-consuming for global routing, can help generate significantly higher quality solutions while meeting practical runtime requirements. 
   tags:
     - nsf

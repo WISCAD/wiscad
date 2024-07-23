@@ -85,7 +85,7 @@
   tags:
     - nsf
 
-- title: Configurable-2.5D
+- title: Configurable2.5D
   subtitle: configurable interconnect 
   link: https://spcg.ece.wisc.edu/pspaqed.html
   image: images/flex2.5D.jpg
@@ -93,7 +93,7 @@
   tags:
     - website
 
-- title: Word-RevEng
+- title: WordRevEng
   subtitle: word-level reverse eng 
   link: https://github.com/WISCAD/WORDREV
   image: images/wordrev.jpg

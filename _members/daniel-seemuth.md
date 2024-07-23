@@ -1,11 +1,9 @@
 ---
-name: Daniel Seemuth
+name: Daniel P. Seemuth
 role: alum
 image: images/daniel-seemuth.jpg
 aliases:
-  - D. Seemuth
-  - D Seemuth
-  - Daniel Seemuth
+  - Seemuth
 links:
   home-page: https://www.linkedin.com/in/danielseemuth/
 ---

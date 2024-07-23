@@ -8,7 +8,6 @@
     - data
     - nsf
 
-
 - title: DistDNN
   subtitle: distributed inference for DNNs
   group: featured
@@ -49,6 +48,7 @@
   tags:
     - nsf
     - code
+    - slides
 
 - title: GRCongestion
   subtitle: congestion analysis for GR

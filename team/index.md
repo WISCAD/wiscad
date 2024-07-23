@@ -16,6 +16,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Alumni
 
+{% include section.html %}
+
 **[Maedeh Hemmat, PhD'21](https://wiscad.github.io/wiscad/members/maedeh-hemmat.html)**
 
 **[Wei Zeng, PhD'21](https://wiscad.github.io/wiscad/members/wei-zeng.html)**
@@ -35,6 +37,3 @@ nav:
 **[Tai-Hsuan Wu, PhD'11](https://wiscad.github.io/wiscad/members/taihsuan-wu.html)**
 
 **[Lin Xie, PhD'10](https://wiscad.github.io/wiscad/members/lin-xie.html)**
-
-
-{% include grid.html style="square" content=content %}

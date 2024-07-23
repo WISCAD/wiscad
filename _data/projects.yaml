@@ -6,6 +6,7 @@
   tags:
     - code
     - data
+    - website
     - nsf
 
 - title: DistDNN
@@ -16,6 +17,7 @@
   tags:
     - code
     - data
+    - website
     - nsf
     
 - title: SecSplitMan
@@ -27,6 +29,7 @@
   tags:
     - code
     - data
+    - website
     - nsf
     - src
   
@@ -39,6 +42,7 @@
   tags:
     - nsf
     - code
+    - website
     - slides
   
 - title: PostSiDebug
@@ -49,6 +53,7 @@
   tags:
     - nsf
     - code
+    - website
     - slides
 
 - title: GRCongestion
@@ -58,6 +63,7 @@
   tags:
     - nsf
     - code
+    - website
 
 - title: Parallel GR
   subtitle: parallel global routing
@@ -66,7 +72,7 @@
   tags:
     - nsf
     - data
-
+    - website
 
 - title: CAD4Variability
   subtitle: design automation with manufacturing-induced variations
@@ -74,4 +80,5 @@
   description: In modern IC design, smaller components are less tolerant to manufacturing-induced variations; their performance may turn out so poor that the IC may have to be entirely redesigned in order to meet the performance specs. This research aims to develop a framework for producing IC designs that are robust with respect to imperfections. 
   tags:
     - nsf
+
 

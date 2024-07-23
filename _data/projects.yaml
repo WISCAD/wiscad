@@ -34,11 +34,12 @@
 - title: GR-DR
   subtitle: bridging GR to DR
   link: https://github.com/WISCAD/TRAPL/  
-  image: images/gr2dr.jpg
+  image: images/trapl.jpg
   description: This project aims to develop CAD tools that incorporate major design rules within a key, higher stage of the design flow, namely the global routing stage with the aim to bridge the gap with the lower detailed routing stage.
   tags:
     - nsf
     - code
+    - slides
   
 - title: PostSiDebug
   subtitle: post-Si debug of timing errors

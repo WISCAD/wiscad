@@ -9,7 +9,7 @@ nav:
 
 Our research interests span machine learning for better chip design, design automation for better machine learning including in distributed settings with edge devices, all aspects of IC-CAD including high-level design and layout synthesis, and hardware security. In recent years, we have been using explainable machine learning to improve computer-aided design for Integrated Circuits. Browse our current and past research projects.
 
-{% include tags.html tags="data, code, nsf, src" %}
+{% include tags.html tags="data, code, slides, nsf, src" %}
 
 {% include search-info.html %}
 

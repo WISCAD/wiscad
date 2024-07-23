@@ -20,23 +20,32 @@ nav:
 
 {% capture content %}
 
-{% include list.html data="members" component="portrait" filters="name: Lin Xie" %}
-
-{% include list.html data="members" component="portrait" filters="name: Tai-Hsuan Wu" %}
-
-{% include list.html data="members" component="portrait" filters="name: Hamid Shojaei" %}
-
-{% include list.html data="members" component="portrait" filters="name: Min Li" %}
-
-{% include list.html data="members" component="portrait" filters="name: Daohang Shi" %}
-
-{% include list.html data="members" component="portrait" filters="name: Jonathon Magaña" %}
-
-{% include list.html data="members" component="portrait" filters="name: Boyu Zhang" %}
+{% include list.html data="members" component="portrait" filters="name: Maedeh Hemmat" %}
 
 {% include list.html data="members" component="portrait" filters="name: Wei Zeng" %}
 
-{% include list.html data="members" component="portrait" filters="name: Maedeh Hemmat" %}
+{% include list.html data="members" component="portrait" filters="name: Boyu Zhang" %}
+
+{% include list.html data="members" component="portrait" filters="name: Jonathon Magaña" %}
+
+{% include list.html data="members" component="portrait" filters="name: Daohang Shi" %}
+
+{% include list.html data="members" component="portrait" filters="name: Min Li" %}
+
+{% include list.html data="members" component="portrait" filters="name: Hamid Shojaei" %}
+
+{% include list.html data="members" component="portrait" filters="name: Tai-Hsuan Wu" %}
+
+{% include list.html data="members" component="portrait" filters="name: Lin Xie" %}
+
+
+
+
+
+
+
+
+
 
 {% endcapture %}
 

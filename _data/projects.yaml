@@ -99,7 +99,7 @@
   subtitle: reverse engineering 
   link: https://github.com/WISCAD/WORDREV
   image: images/reveng.jpg
-  description: This project investigates the impact of control signals to aid in structural matching. Structural matching is used in netlist reverse engineering to identify bits belonging to the same word.  
+  description: This project investigates the impact of control signals to aid in partial structural matching. Structural matching is used in netlist reverse engineering to identify groups of bits belonging to the same word.  
   tags:
     - website
     - code

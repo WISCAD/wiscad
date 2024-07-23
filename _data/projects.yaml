@@ -85,4 +85,11 @@
   tags:
     - nsf
 
+- title: Flex2.5D
+  subtitle: reconfigurable interconnect in 2.5D
+  link: https://github.com/WISCAD/PGRIP
+  image: images/photo.jpg
+  description: In modern IC design, smaller components are less tolerant to manufacturing-induced variations; their performance may turn out so poor that the IC may have to be entirely redesigned in order to meet the performance specs. This research aims to develop a framework for producing IC designs that are robust with respect to imperfections. 
+  tags:
+    - website
 

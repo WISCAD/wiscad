@@ -1130,7 +1130,7 @@
   - A. Davoodi
   - A. Srivastava
   publisher: IEEE/ACM International Conference on Computer Aided Design, 2004. ICCAD-2004.
-  date: ''
+  date: '2004-10-11'
   link: https://doi.org/d7s6v3
   plugin: sources.py
   file: sources.yaml
@@ -1166,7 +1166,7 @@
   - A. Srivastava
   publisher: Proceedings of the 2003 International Symposium on Low Power Electronics
     and Design, 2003. ISLPED '03.
-  date: ''
+  date: '2003-08-27'
   link: https://doi.org/bb8b34
   plugin: sources.py
   file: sources.yaml

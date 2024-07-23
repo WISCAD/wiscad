@@ -18,22 +18,22 @@ nav:
 
 {% include section.html %}
 
-[**Maedeh Hemmat**, PhD'21](https://wiscad.github.io/wiscad/members/maedeh-hemmat.html)
+[**Maedeh Hemmat**](https://wiscad.github.io/wiscad/members/maedeh-hemmat.html), PhD'21
 
-[**Wei Zeng**, PhD'21](https://wiscad.github.io/wiscad/members/wei-zeng.html)
+[**Wei Zeng**](https://wiscad.github.io/wiscad/members/wei-zeng.html), PhD'21
 
-[**Boyu Zhang**, PhD'19](https://wiscad.github.io/wiscad/members/boyu-zhang.html)
+[**Boyu Zhang**](https://wiscad.github.io/wiscad/members/boyu-zhang.html), PhD'19
 
-[**Jonathon Magaña**, PhD'19](https://wiscad.github.io/wiscad/members/jonathon-magana.html)
+[**Jonathon Magaña**](https://wiscad.github.io/wiscad/members/jonathon-magana.html), PhD'19
 
-[**Daohang Shi**, PhD'16](https://wiscad.github.io/wiscad/members/daohang-shi.html)
+[**Daohang Shi**](https://wiscad.github.io/wiscad/members/daohang-shi.html), PhD'16
 
-[**Daniel Seemuth**, PhD'16](https://wiscad.github.io/wiscad/members/daniel-seemuth.html)
+[**Daniel Seemuth**](https://wiscad.github.io/wiscad/members/daniel-seemuth.html), PhD'16
 
-[**Min Li**, PhD'14](https://wiscad.github.io/wiscad/members/min-li.html)
+[**Min Li**](https://wiscad.github.io/wiscad/members/min-li.html), PhD'14
 
-[**Hamid Shojaei**, PhD'12](https://wiscad.github.io/wiscad/members/hamid-shojaei.html)
+[**Hamid Shojaei**](https://wiscad.github.io/wiscad/members/hamid-shojaei.html), PhD'12
 
-[**Tai-Hsuan Wu**, PhD'11](https://wiscad.github.io/wiscad/members/taihsuan-wu.html)
+[**Tai-Hsuan Wu**](https://wiscad.github.io/wiscad/members/taihsuan-wu.html), PhD'11
 
-[**Lin Xie**, PhD'10](https://wiscad.github.io/wiscad/members/lin-xie.html)
+[**Lin Xie**](https://wiscad.github.io/wiscad/members/lin-xie.html), PhD'10

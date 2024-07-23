@@ -9,7 +9,7 @@ aliases:
 links:
   home-page: https://www.linkedin.com/in/danielseemuth/
 ---
-co-advised with Prof. Katherine Morrow
+co-advised with [Prof. Katherine Morrow](https://directory.engr.wisc.edu/ece/Faculty/Morrow_Katherine/)
 
 Dissertation: "Accommodating flexible interconnect in automated 2D and 2.5D system design"
 

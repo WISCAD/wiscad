@@ -16,4 +16,4 @@ First Employment: Qualcomm
 
 Best Paper Award of ACM TODAES'2015
 
-Release software: [CGRIP](https://github.com/WISCAD/CGRIP)
+Released software: [CGRIP](https://github.com/WISCAD/CGRIP)

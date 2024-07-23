@@ -49,7 +49,7 @@
   subtitle: post-Si debug of timing errors
   link: https://github.com/WISCAD/TRACE/
   image: images/trace.jpg
-  description: Timing errors refer to those malfunctions which manifest in the form of setup and hold time violations. This research aims to automate debug of timing errors. Our approach is based on on-chip measurements to learn more about the inside of the chip.
+  description: Timing errors refer to those malfunctions which cause setup and hold time violations. This research aims to automate debug of timing errors. Our approach relies on few on-chip measurements to learn about the rest of the chip.
   tags:
     - nsf
     - code

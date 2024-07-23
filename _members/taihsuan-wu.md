@@ -14,3 +14,6 @@ Dissertation: "A parallel integer programming approach to global routing", defen
 First Employment: Intel
 
 Best Paper Candidate of DAC'10
+
+Released software: [TraPL](https://github.com/WISCAD/PGRIP)
+

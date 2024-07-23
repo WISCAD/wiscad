@@ -15,4 +15,4 @@ defense date: 02/16/2016
 
 First Employment: OnLume 
 
-Tools released: [Flex2.5D](https://spcg.ece.wisc.edu/pspaqed.html)
+Released software: [Flex2.5D](https://spcg.ece.wisc.edu/pspaqed.html)

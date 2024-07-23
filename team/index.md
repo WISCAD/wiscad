@@ -20,7 +20,9 @@ nav:
 
 {% capture content %}
 
-{% include list.html data="members" component="portrait" filters="role: alum" %}
+{% include list.html data="members" component="portrait" filters="name: Lin Xie" %}
+
+{% include list.html data="members" component="portrait" filters="name: Tai-Hsuan Wu" %}
 
 {% endcapture %}
 

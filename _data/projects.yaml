@@ -33,7 +33,7 @@
   
 
 - title: GR-DR
-  subtitle: GR ---> DR
+  subtitle: bridging GR to DR
   link: https://github.com/WISCAD/TRAPL/  
   image: images/photo.jpg
   description: This project aims to develop CAD tools that incorporate major design rules within a key, higher stage of the design flow, namely the global routing stage with the aim to bridge the gap with the lower detailed routing stage.

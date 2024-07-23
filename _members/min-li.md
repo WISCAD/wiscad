@@ -13,3 +13,5 @@ links:
 Dissertation: "Trace signal selection for post-silicon debug", defense date: 06/30/2014
 
 First Employment: Synopsys 
+
+Released software: [TRACE](https://github.com/WISCAD/TRACE)

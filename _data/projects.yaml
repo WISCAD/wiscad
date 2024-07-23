@@ -79,7 +79,7 @@
     - slides
 
 - title: CAD4Variability
-  subtitle: design automation with manufacturing-induced variations
+  subtitle: design automation with manufacturing variations
   image: images/photo.jpg
   description: In modern IC design, smaller components are less tolerant to manufacturing-induced variations; their performance may turn out so poor that the IC may have to be entirely redesigned in order to meet the performance specs. This research aims to develop a framework for producing IC designs that are robust with respect to imperfections. 
   tags:

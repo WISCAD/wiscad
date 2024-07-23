@@ -24,21 +24,22 @@ nav:
 
 **[Wei Zeng, PhD'21](https://wiscad.github.io/wiscad/members/wei-zeng.html)**
 
-{% include list.html data="members" component="portrait" filters="name: Boyu Zhang" %}
+**[Boyu Zhang, PhD'19](https://wiscad.github.io/wiscad/members/boyu-zhang.html)**
 
-{% include list.html data="members" component="portrait" filters="name: Jonathon Magaña" %}
+**[Jonathon Magaña, PhD'19](https://wiscad.github.io/wiscad/members/jonathon-magana.html)**
 
-{% include list.html data="members" component="portrait" filters="name: Daohang Shi" %}
+**[Daohang Shi, PhD'16](https://wiscad.github.io/wiscad/members/daohang-shi.html)**
 
-{% include list.html data="members" component="portrait" filters="name: Daniel Seemuth" %}
+**[Daniel Seemuth, PhD'16](https://wiscad.github.io/wiscad/members/daniel-seemuth.html)**
 
-{% include list.html data="members" component="portrait" filters="name: Min Li" %}
+**[Min Li, PhD'14](https://wiscad.github.io/wiscad/members/min-li.html)**
 
-{% include list.html data="members" component="portrait" filters="name: Hamid Shojaei" %}
+**[Hamid Shojaei, PhD'12](https://wiscad.github.io/wiscad/members/hamid-shojaei.html)**
 
-{% include list.html data="members" component="portrait" filters="name: Tai-Hsuan Wu" %}
+**[Tai-Hsuan Wu, PhD'11](https://wiscad.github.io/wiscad/members/taihsuan-wu.html)**
 
-{% include list.html data="members" component="portrait" filters="name: Lin Xie" %}
+**[Lin Xie, PhD'10](https://wiscad.github.io/wiscad/members/lin-xie.html)**
+
 
 
 

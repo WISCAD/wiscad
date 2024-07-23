@@ -58,6 +58,7 @@
 
 - title: GRCongestion
   subtitle: congestion analysis for GR
+  link: https://github.com/WISCAD/CGRIP
   image: images/cgrip.jpg
   description: In modern IC designs, several new factors contribute to routing congestion including significantly different wire size and spacing among the metal layers, sizes of inter-layer vias, local congestion due to pin density and wiring inside a global-cell. This research aims to develop techniques for fast congestion analysis at global routing to increase correlation with detailed routing.
   tags:

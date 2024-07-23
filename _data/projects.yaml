@@ -86,7 +86,7 @@
     - nsf
 
 - title: Flex2.5D
-  subtitle: configurable interconnect design
+  subtitle: configurable interconnect 
   link: https://spcg.ece.wisc.edu/pspaqed.html
   image: images/flex2.5d.jpg
   description: This project provides a framework for design automation of 2.5D interposer-based multi-die ICs. Our approach is designed for (but not limited to) 2.5D ICs that contain one or more dies with flexible I/Os—such as FPGA dies.  

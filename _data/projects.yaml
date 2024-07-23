@@ -47,6 +47,7 @@
   description: Timing errors refer to those malfunctions which manifest in the form of setup and hold time violations. This research aims to bring automation to the debug process of timing errors. We use on-chip measurements to learn more about the inside of the chip.
   tags:
     - nsf
+    - code
 
 - title: GRCongestion
   subtitle: congestion analysis for GR

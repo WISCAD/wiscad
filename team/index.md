@@ -30,6 +30,8 @@ nav:
 
 {% include list.html data="members" component="portrait" filters="name: Daohang Shi" %}
 
+{% include list.html data="members" component="portrait" filters="name: Daniel Seemuth" %}
+
 {% include list.html data="members" component="portrait" filters="name: Min Li" %}
 
 {% include list.html data="members" component="portrait" filters="name: Hamid Shojaei" %}

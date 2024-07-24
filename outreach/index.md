@@ -5,4 +5,4 @@ nav:
   tooltip: community outreach
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Outreach
+# {% include icon.html icon="fa-solid fa-microscope" %}Publications

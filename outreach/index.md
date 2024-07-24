@@ -5,6 +5,6 @@ nav:
   tooltip: community outreach
 ---
 
-# {% include icon.html icon="fa-solid fa-mouse" %}Outreach
+# {% include icon.html icon="fa-solid fa-people-arrows" %}Outreach
 
 {% include section.html %}

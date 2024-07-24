@@ -6,3 +6,5 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Outreach
+
+{% include section.html %}

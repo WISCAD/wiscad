@@ -11,6 +11,7 @@
 
 - title: DistDNN
   subtitle: distributed inference for DNNs
+  link: https://github.com/robertviramontes/distributed_inference_estimation_optimization/tree/main
   group: featured
   image: images/photo.jpg
   description: In this project, new techniques are investigated to directly deploy Deep Neural Networks onto networked devices, to perform inference with consideration for latency and energy consumption.

@@ -85,6 +85,16 @@
   azadeh-davoodi: true
   plugin: sources.py
   file: sources.yaml
+- id: 10.1109/SMARTCOMP61445.2024.00081
+  title: 'DIME: Distributed Inference Model Estimation for Minimizing Profiled Latency'
+  authors:
+  - Robert Viramontes
+  - Azadeh Davoodi
+  publisher: 2024 IEEE International Conference on Smart Computing (SMARTCOMP)
+  date: '2024-06-29'
+  link: https://doi.org/gt5kdj
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.23919/DATE48585.2020.9116488
   title: Explainable DRC Hotspot Prediction with Random Forest and SHAP Tree Explainer
   authors:

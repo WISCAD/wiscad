@@ -10,9 +10,7 @@ nav:
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="Viramontes" %}
-
-{% include list.html data="members" component="portrait" filters="Lizi" %}
+{% include list.html data="members" component="portrait" filters="role: phd" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 

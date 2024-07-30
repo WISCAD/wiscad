@@ -15,7 +15,7 @@ nav:
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-# {% include icon.html icon="fa-solid fa-users" %}Alumni
+# {% include icon.html icon="fa-solid fa-users" %}WISCAD Graduates
 
 {% include section.html %}
 

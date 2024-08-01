@@ -8,8 +8,8 @@ aliases:
   - Azadeh Davoodi
 links:
   home-page: https://directory.engr.wisc.edu/ece/Faculty/Davoodi_Azadeh/
-  orcid: 0000-0001-8713-9213
   linkedin: azadeh-davoodi-63a35835
+  orcid: 0000-0001-8713-9213
 ---
 
 

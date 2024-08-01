@@ -4,7 +4,7 @@ image: images/robert-viramontes.jpg
 role: phd
 links:
   home-page: https://robertviramontes.github.io/
-  linkedin: https://www.linkedin.com/in/robert-viramontes/
+  linkedin: robert-viramontes
   orcid: 0000-0003-3074-2438
 ---
 

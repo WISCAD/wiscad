@@ -85,6 +85,14 @@
   azadeh-davoodi: true
   plugin: sources.py
   file: sources.yaml
+- id: arXiv:2408.03292v1
+  title: "Static IR Drop Prediction with Attention U-Net and Saliency-Based\n  Explainability"
+  authors: []
+  publisher: arXiv
+  date: '2024-08-06'
+  link: https://arxiv.org/abs/2408.03292v1
+  plugin: sources.py
+  file: sources.yaml
 - id: 10.1109/SMARTCOMP61445.2024.00081
   title: 'DIME: Distributed Inference Model Estimation for Minimizing Profiled Latency'
   authors:

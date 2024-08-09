@@ -87,7 +87,9 @@
   file: sources.yaml
 - id: arXiv:2408.03292v1
   title: "Static IR Drop Prediction with Attention U-Net and Saliency-Based\n  Explainability"
-  authors: []
+  authors:
+  - Lizi Zhang
+  - Azadeh Davoodi
   publisher: arXiv
   date: '2024-08-06'
   link: https://arxiv.org/abs/2408.03292v1

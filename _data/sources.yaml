@@ -1,5 +1,7 @@
 - id: arXiv:2408.03292v1
-  - authors: Lizi Zhang, Azadeh Davoodi
+  authors: 
+  - Lizi Zhang
+  - Azadeh Davoodi
 - id: 10.1109/SMARTCOMP61445.2024.00081
 - id: doi:10.23919/DATE48585.2020.9116488
 - id: doi:10.1016/j.vlsi.2022.10.013

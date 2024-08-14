@@ -16,3 +16,7 @@ First Employment: Synopsys
 
 Released software: [SecSplitMan](https://cadforassurance.org/tools/design-for-trust/analysis-of-security-of-split-manufacturing-using-machine-learning/)
 
+[2021 First place winner in IWLS programming contest](https://engineering.wisc.edu/news/ece-phd-students-win-international-machine-learning-contest/)
+
+[2020 Second place winner in IWLS programming contest
+](https://engineering.wisc.edu/news/ece-phd-student-places-high-in-international-programming-competition/)

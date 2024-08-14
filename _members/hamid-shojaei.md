@@ -14,6 +14,6 @@ Dissertation: "Rethinking global routing in modern VLSI design: congestion reduc
 
 First Employment: Qualcomm
 
-Best Paper Award of ACM TODAES'2015
+[Best Paper Award of ACM TODAES'2015](https://dl.acm.org/journal/todaes/honors-and-awards)
 
 Released software: [CGRIP](https://github.com/WISCAD/CGRIP)

@@ -1,3 +1,11 @@
+
+- title: 'Representative path selection for post-silicon timing prediction under variability'
+  authors:
+  - Lin Xie
+  - Azadeh Davoodi
+  publisher: ACM Workshop on Timing Issues in the Specification of Digital Systems (TAU'10)
+  date: '2010-04'
+
 - title: 'Automation tools for post-silicon debug of timing errors'
   authors:
   - Azadeh Davoodi

@@ -85,11 +85,19 @@
   azadeh-davoodi: true
   plugin: sources.py
   file: sources.yaml
+- title: Representative path selection for post-silicon timing prediction under variability
+  authors:
+  - Lin Xie
+  - Azadeh Davoodi
+  publisher: ACM Workshop on Timing Issues in the Specification of Digital Systems
+    (TAU'10)
+  date: ''
+  plugin: sources.py
+  file: sources.yaml
 - title: Automation tools for post-silicon debug of timing errors
   authors:
   - Azadeh Davoodi
-  publisher: IEEE/ACM International Workshop on Microprocessor Test and Verification
-    (MTV'12)
+  publisher: IEEE International Workshop on Microprocessor Test and Verification (MTV'12)
   date: ''
   plugin: sources.py
   file: sources.yaml
@@ -98,8 +106,7 @@
   authors:
   - Min Li
   - Azadeh Davoodi
-  publisher: IEEE/ACM International Workshop on Microprocessor Test and Verification
-    (MTV'12)
+  publisher: IEEE International Workshop on Microprocessor Test and Verification (MTV'12)
   date: ''
   plugin: sources.py
   file: sources.yaml

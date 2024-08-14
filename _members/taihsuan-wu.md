@@ -15,5 +15,5 @@ First Employment: Intel
 
 Best Paper Candidate of DAC'10
 
-Released software: [TraPL](https://github.com/WISCAD/PGRIP)
+Released software: [PGRIP](https://github.com/WISCAD/PGRIP)
 

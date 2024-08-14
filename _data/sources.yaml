@@ -5,7 +5,7 @@
   - Azadeh Davoodi
   - Jeffrey T. Linderoth
   link: https://ieeexplore.ieee.org/document/5763077
-  publisher: IEEE/ACM Design, Automation & Test In Europe Conference & Exhibition (DATE'11)
+  publisher: IEEE/ACM Design, Automation & Test In Europe Conference & Exhibition (DATE)
   date: '2011-03-14'
   doi: 10.1109/DATE.2011.5763077
   
@@ -15,7 +15,7 @@
   - Min Li
   - Azadeh Davoodi  
   link: https://ieeexplore.ieee.org/document/6513557
-  publisher: IEEE/ACM Design, Automation & Test In Europe Conference & Exhibition (DATE'13)
+  publisher: IEEE/ACM Design, Automation & Test In Europe Conference & Exhibition (DATE)
   date: '2013-03-23'
   doi: 10.7873/DATE.2013.111
   
@@ -25,7 +25,7 @@
   - Jeffrey T. Linderoth
   - Azadeh Davoodi  
   link: https://ieeexplore.ieee.org/abstract/document/7459314
-  publisher: IEEE/ACM Design, Automation & Test In Europe Conference & Exhibition (DATE'14)
+  publisher: IEEE/ACM Design, Automation & Test In Europe Conference & Exhibition (DATE)
   date: '2016-03-14'
   isbn: 978-3-9815-3707-9
   
@@ -34,7 +34,7 @@
   - Boyu Zhang
   - Azadeh Davoodi  
   link: https://ieeexplore.ieee.org/document/7927123
-  publisher: IEEE/ACM Design, Automation & Test In Europe Conference & Exhibition (DATE'17)
+  publisher: IEEE/ACM Design, Automation & Test In Europe Conference & Exhibition (DATE)
   date: '2017-03-27'
   doi: 10.23919/DATE.2017.7927123
 
@@ -42,42 +42,42 @@
   authors:
   - Azadeh Davoodi
   - Ankur Srivastava
-  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS'04)
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS)
   date: '2004-06-01'
 
 - title: 'Efficient stochastic pruning for variability-driven dual-Vth leakage optimization'
   authors:
   - Azadeh Davoodi
   - Ankur Srivastava
-  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS'05)
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS)
   date: '2005-06-01'
 
 - title: 'Variability driven buffer insertion considering correlations'
   authors:
   - Azadeh Davoodi
   - Ankur Srivastava
-  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS'05)
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS)
   date: '2005-06-01'
   
 - title: 'Variability driven gate sizing for binning yield optimization'
   authors:
   - Azadeh Davoodi
   - Ankur Srivastava
-  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS'06) 
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS) 
   date: '2006-06-01'
   
 - title: 'A dual-Vt assignment algorithm of SRAM array considering process-induced Vt variations'
   authors:
   - Jungseob Lee
   - Azadeh Davoodi
-  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS'07)
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS)
   date: '2007-06-01'
   
 - title: 'SynECO: Technology remapping with incremental constrained placement and exact timing estimation'
   authors:
   - Anuj Kumar
   - Azadeh Davoodi
-  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS'08)
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS)
   date: '2008-06-01'
   
 - title: 'A parallel and randomized algorithm for large-scale discrete dual-Vt assignment and continuous gate sizing'
@@ -85,27 +85,27 @@
   - Tai-Hsuan Wu
   - Lin Xie
   - Azadeh Davoodi
-  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS'08) 
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS) 
   date: '2008-06-01'
   
 - title: 'Representative path selection for post-silicon timing prediction under variability'
   authors:
   - Lin Xie
   - Azadeh Davoodi
-  publisher: ACM Workshop on Timing Issues in the Specification of Digital Systems (TAU'10)
+  publisher: ACM Workshop on Timing Issues in the Specification of Digital Systems (TAU)
   date: '2010-04-01'
 
 - title: 'Automation tools for post-silicon debug of timing errors'
   authors:
   - Azadeh Davoodi
-  publisher: IEEE International Workshop on Microprocessor Test and Verification (MTV'12)
+  publisher: IEEE International Workshop on Microprocessor Test and Verification (MTV)
   date: '2010-12-01'
 
 - title: 'A hybrid approach for fast and accurate trace signal selection for post-silicon debug'
   authors:
   - Min Li
   - Azadeh Davoodi
-  publisher: IEEE International Workshop on Microprocessor Test and Verification (MTV'12)
+  publisher: IEEE International Workshop on Microprocessor Test and Verification (MTV)
   date: '2012-12-01'
 
 - title: 'Online and operand-aware detection of failures by utilizing false alarm vectors'
@@ -115,14 +115,14 @@
   - Azadeh Davoodi
   - Nam Sung Kim
   - Mikko Lipasti
-  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS'13)
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS)
   date: '2013-06-01'
 
 - title: 'On Neural Networks for Automatic Test Pattern Generation'
   authors:
   - Lizi Zhang
   - Azadeh Davoodi
-  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS'24)
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS)
   date: '2024-06-06'
   link: https://www.iwls.org/iwls2024/program.php
   
@@ -130,7 +130,7 @@
   authors:
   - Robert Viramontes
   - Azadeh Davoodi
-  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS'24)
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS)
   date: '2024-06-06'
   link: https://www.iwls.org/iwls2024/program.php
 - id: arXiv:2408.03292v1

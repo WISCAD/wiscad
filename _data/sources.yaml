@@ -1,9 +1,16 @@
+- title: 'A dual-Vt assignment algorithm of SRAM array considering process-induced Vt variations'
+  authors:
+  - Jungseob Lee
+  - Azadeh Davoodi
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis  
+  date: '2007-06-01'
+  
 - title: 'SynECO: Technology remapping with incremental constrained placement and exact timing estimation'
   authors:
   - Anuj Kumar
   - Azadeh Davoodi
   publisher: IEEE/ACM International Workshop on Logic & Synthesis  
-  date: '2007-06-01'
+  date: '2008-06-01'
   
 - title: 'A parallel and randomized algorithm for large-scale discrete dual-Vt assignment and continuous gate sizing'
   authors:

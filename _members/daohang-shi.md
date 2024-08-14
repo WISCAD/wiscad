@@ -9,7 +9,7 @@ aliases:
 links:
   home-page: https://www.linkedin.com/in/daohang-shi-35569630/
 ---
-Dissertation: "Bridging the gap between global and detailed routing of Integrated Circuits", defense date: 12/06/2016
+Dissertation: "[Reducing the Mismatch Between Global and Detailed Routing of Integrated Circuits](https://search.library.wisc.edu/digital/ACBLULS7YMHMQK82)", defense date: 12/06/2016
 
 First Employment: Cadence
 

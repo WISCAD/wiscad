@@ -1,8 +1,6 @@
 - title: XAI-CAD
   subtitle: explainable AI for better VLSI chip design
   link: https://github.com/WISCAD/XIA-CAD/tree/main
-  button:
-    - website
   group: featured
   image: images/IRDrop2.jpg
   description: The goal of this project is to utilize Explainable Artificial Intelligence (XAI) to take the use of AI within the chip design process to the next level by allowing AI-based explainability to guide optimization. 

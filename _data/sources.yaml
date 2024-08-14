@@ -1,9 +1,21 @@
+
+- title: 'Power-driven global routing for MSV domains'
+  authors:
+  - Tai-Hsuan Wu
+  - Azadeh Davoodi
+  - Jeffrey T. Linderoth
+  link: https://ieeexplore.ieee.org/document/5763077
+  publisher: IEEE/ACM Design, Automation & Test In Europe Conference & Exhibition (DATE'11)
+  date: '2011-03-14'
+  doi: 10.1109/DATE.2011.5763077
+  
+  
 - title: 'A hybrid approach for fast and accurate trace signal selection for post-silicon debug'
   authors:
   - Min Li
   - Azadeh Davoodi  
   link: https://ieeexplore.ieee.org/document/6513557
-  publisher: IEEE/ACM Design, Automation & Test In Europe Conference & Exhibition 
+  publisher: IEEE/ACM Design, Automation & Test In Europe Conference & Exhibition (DATE'13)
   date: '2013-03-23'
   doi: 10.7873/DATE.2013.111
   
@@ -13,7 +25,7 @@
   - Jeffrey T. Linderoth
   - Azadeh Davoodi  
   link: https://ieeexplore.ieee.org/abstract/document/7459314
-  publisher: IEEE/ACM Design, Automation & Test In Europe Conference & Exhibition 
+  publisher: IEEE/ACM Design, Automation & Test In Europe Conference & Exhibition (DATE'14)
   date: '2016-03-14'
   isbn: 978-3-9815-3707-9
   
@@ -22,7 +34,7 @@
   - Boyu Zhang
   - Azadeh Davoodi  
   link: https://ieeexplore.ieee.org/document/7927123
-  publisher: IEEE/ACM Design, Automation & Test In Europe Conference & Exhibition 
+  publisher: IEEE/ACM Design, Automation & Test In Europe Conference & Exhibition (DATE'17)
   date: '2017-03-27'
   doi: 10.23919/DATE.2017.7927123
 

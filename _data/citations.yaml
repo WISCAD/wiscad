@@ -85,6 +85,38 @@
   azadeh-davoodi: true
   plugin: sources.py
   file: sources.yaml
+- title: 'Simultaneous floorplanning and binding: A probabilistic approach'
+  authors:
+  - Azadeh Davoodi
+  - Ankur Srivastava
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis
+  date: '2004-06-01'
+  plugin: sources.py
+  file: sources.yaml
+- title: Efficient stochastic pruning for variability-driven dual-Vth leakage optimization
+  authors:
+  - Azadeh Davoodi
+  - Ankur Srivastava
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis
+  date: '2005-06-01'
+  plugin: sources.py
+  file: sources.yaml
+- title: Variability driven buffer insertion considering correlations
+  authors:
+  - Azadeh Davoodi
+  - Ankur Srivastava
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis
+  date: '2005-06-01'
+  plugin: sources.py
+  file: sources.yaml
+- title: Variability driven gate sizing for binning yield optimization
+  authors:
+  - Azadeh Davoodi
+  - Ankur Srivastava
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis
+  date: '2006-06-01'
+  plugin: sources.py
+  file: sources.yaml
 - title: A dual-Vt assignment algorithm of SRAM array considering process-induced
     Vt variations
   authors:

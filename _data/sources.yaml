@@ -1,3 +1,12 @@
+- title: 'A hybrid approach for fast and accurate trace signal selection for post-silicon debug'
+  authors:
+  - Min Li
+  - Azadeh Davoodi  
+  link: https://ieeexplore.ieee.org/document/6513557
+  publisher: IEEE/ACM Design, Automation & Test In Europe Conference & Exhibition 
+  date: '2013-03-23'
+  doi: 10.7873/DATE.2013.111
+  
 - title: 'A procedure for improving the distribution of congestion in global routing'
   authors:
   - Tai-Hsuan Wu

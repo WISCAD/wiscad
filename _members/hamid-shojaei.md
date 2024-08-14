@@ -10,7 +10,7 @@ links:
 ---
 co-advised with [Prof. Twan Basten](https://www.tue.nl/en/research/researchers/twan-basten)
 
-Dissertation: "Rethinking global routing in modern VLSI design: congestion reduction and multi-objective optimization", defense date: 05/21/2012
+Dissertation: "[Rethinking global routing in modern VLSI design: congestion reduction and multi-objective optimization](https://search.library.wisc.edu/digital/AHG7FO6IMLWAUW8K)", defense date: 05/21/2012
 
 First Employment: Qualcomm
 

@@ -85,6 +85,16 @@
   azadeh-davoodi: true
   plugin: sources.py
   file: sources.yaml
+- title: Technology Mapping with All Spin Logic
+  authors:
+  - Boyu Zhang
+  - Azadeh Davoodi
+  link: https://ieeexplore.ieee.org/document/7927123
+  publisher: IEEE/ACM Design, Automation & Test In Europe Conference & Exhibition
+  date: '2017-03-27'
+  doi: 10.23919/DATE.2017.7927123
+  plugin: sources.py
+  file: sources.yaml
 - title: 'Simultaneous floorplanning and binding: A probabilistic approach'
   authors:
   - Azadeh Davoodi

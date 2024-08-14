@@ -1,3 +1,8 @@
+- title: 'Automation tools for post-silicon debug of timing errors'
+  authors:
+  - Azadeh Davoodi
+  publisher: IEEE/ACM International Workshop on Microprocessor Test and Verification (MTV'12)
+  date: '2010-12'
 
 - title: 'A hybrid approach for fast and accurate trace signal selection for post-silicon debug'
   authors:

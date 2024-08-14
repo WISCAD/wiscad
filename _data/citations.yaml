@@ -85,13 +85,22 @@
   azadeh-davoodi: true
   plugin: sources.py
   file: sources.yaml
+- title: On Neural Networks for Automatic Test Pattern Generation
+  authors:
+  - Lizi Zhang
+  - Azadeh Davoodi
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis
+  date: '2024-06-06'
+  link: https://www.iwls.org/iwls2024/program.php
+  plugin: sources.py
+  file: sources.yaml
 - title: A Systematic Framework for Opportunistic Pruning of Deep Neural Networks
     on Edge Devices
   authors:
   - Robert Viramontes
   - Azadeh Davoodi
   publisher: IEEE/ACM International Workshop on Logic & Synthesis
-  date: ''
+  date: '2024-06-06'
   link: https://www.iwls.org/iwls2024/program.php
   plugin: sources.py
   file: sources.yaml

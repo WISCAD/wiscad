@@ -85,13 +85,22 @@
   azadeh-davoodi: true
   plugin: sources.py
   file: sources.yaml
+- title: A dual-Vt assignment algorithm of SRAM array considering process-induced
+    Vt variations
+  authors:
+  - Jungseob Lee
+  - Azadeh Davoodi
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis
+  date: '2007-06-01'
+  plugin: sources.py
+  file: sources.yaml
 - title: 'SynECO: Technology remapping with incremental constrained placement and
     exact timing estimation'
   authors:
   - Anuj Kumar
   - Azadeh Davoodi
   publisher: IEEE/ACM International Workshop on Logic & Synthesis
-  date: '2007-06-01'
+  date: '2008-06-01'
   plugin: sources.py
   file: sources.yaml
 - title: A parallel and randomized algorithm for large-scale discrete dual-Vt assignment

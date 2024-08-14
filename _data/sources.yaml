@@ -42,42 +42,42 @@
   authors:
   - Azadeh Davoodi
   - Ankur Srivastava
-  publisher: IEEE/ACM International Workshop on Logic & Synthesis  
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS'04)
   date: '2004-06-01'
 
 - title: 'Efficient stochastic pruning for variability-driven dual-Vth leakage optimization'
   authors:
   - Azadeh Davoodi
   - Ankur Srivastava
-  publisher: IEEE/ACM International Workshop on Logic & Synthesis  
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS'05)
   date: '2005-06-01'
 
 - title: 'Variability driven buffer insertion considering correlations'
   authors:
   - Azadeh Davoodi
   - Ankur Srivastava
-  publisher: IEEE/ACM International Workshop on Logic & Synthesis  
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS'05)
   date: '2005-06-01'
   
 - title: 'Variability driven gate sizing for binning yield optimization'
   authors:
   - Azadeh Davoodi
   - Ankur Srivastava
-  publisher: IEEE/ACM International Workshop on Logic & Synthesis  
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS'06) 
   date: '2006-06-01'
   
 - title: 'A dual-Vt assignment algorithm of SRAM array considering process-induced Vt variations'
   authors:
   - Jungseob Lee
   - Azadeh Davoodi
-  publisher: IEEE/ACM International Workshop on Logic & Synthesis  
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS'07)
   date: '2007-06-01'
   
 - title: 'SynECO: Technology remapping with incremental constrained placement and exact timing estimation'
   authors:
   - Anuj Kumar
   - Azadeh Davoodi
-  publisher: IEEE/ACM International Workshop on Logic & Synthesis  
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS'08)
   date: '2008-06-01'
   
 - title: 'A parallel and randomized algorithm for large-scale discrete dual-Vt assignment and continuous gate sizing'
@@ -85,7 +85,7 @@
   - Tai-Hsuan Wu
   - Lin Xie
   - Azadeh Davoodi
-  publisher: IEEE/ACM International Workshop on Logic & Synthesis  
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS'08) 
   date: '2008-06-01'
   
 - title: 'Representative path selection for post-silicon timing prediction under variability'
@@ -115,21 +115,22 @@
   - Azadeh Davoodi
   - Nam Sung Kim
   - Mikko Lipasti
-  publisher: IEEE/ACM International Workshop on Logic & Synthesis
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS'13)
   date: '2013-06-01'
 
 - title: 'On Neural Networks for Automatic Test Pattern Generation'
   authors:
   - Lizi Zhang
   - Azadeh Davoodi
-  publisher: IEEE/ACM International Workshop on Logic & Synthesis
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS'24)
   date: '2024-06-06'
   link: https://www.iwls.org/iwls2024/program.php
+  
 - title: 'A Systematic Framework for Opportunistic Pruning of Deep Neural Networks on Edge Devices'
   authors:
   - Robert Viramontes
   - Azadeh Davoodi
-  publisher: IEEE/ACM International Workshop on Logic & Synthesis
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS'24)
   date: '2024-06-06'
   link: https://www.iwls.org/iwls2024/program.php
 - id: arXiv:2408.03292v1

@@ -10,7 +10,7 @@ links:
   home-page: https://www.linkedin.com/in/wei-zeng-wisc/
 ---
 
-Dissertation: "Explainable Artificial Intelligence for Better Design of Very Large Scale Integrated Circuits"", defense date: 8/12/2021
+Dissertation: "[Explainable Artificial Intelligence for Better Design of Very Large Scale Integrated Circuits](https://www.proquest.com/openview/ba089d480c9e078ff428075fbd09d793/1?pq-origsite=gscholar&cbl=18750&diss=y)", defense date: 8/12/2021
 
 First Employment: Synopsys 
 

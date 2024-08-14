@@ -136,7 +136,7 @@
   authors:
   - Azadeh Davoodi
   - Ankur Srivastava
-  publisher: IEEE/ACM International Workshop on Logic & Synthesis
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS'04)
   date: '2004-06-01'
   plugin: sources.py
   file: sources.yaml
@@ -144,7 +144,7 @@
   authors:
   - Azadeh Davoodi
   - Ankur Srivastava
-  publisher: IEEE/ACM International Workshop on Logic & Synthesis
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS'05)
   date: '2005-06-01'
   plugin: sources.py
   file: sources.yaml
@@ -152,7 +152,7 @@
   authors:
   - Azadeh Davoodi
   - Ankur Srivastava
-  publisher: IEEE/ACM International Workshop on Logic & Synthesis
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS'05)
   date: '2005-06-01'
   plugin: sources.py
   file: sources.yaml
@@ -160,7 +160,7 @@
   authors:
   - Azadeh Davoodi
   - Ankur Srivastava
-  publisher: IEEE/ACM International Workshop on Logic & Synthesis
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS'06)
   date: '2006-06-01'
   plugin: sources.py
   file: sources.yaml
@@ -169,7 +169,7 @@
   authors:
   - Jungseob Lee
   - Azadeh Davoodi
-  publisher: IEEE/ACM International Workshop on Logic & Synthesis
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS'07)
   date: '2007-06-01'
   plugin: sources.py
   file: sources.yaml
@@ -178,7 +178,7 @@
   authors:
   - Anuj Kumar
   - Azadeh Davoodi
-  publisher: IEEE/ACM International Workshop on Logic & Synthesis
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS'08)
   date: '2008-06-01'
   plugin: sources.py
   file: sources.yaml
@@ -188,7 +188,7 @@
   - Tai-Hsuan Wu
   - Lin Xie
   - Azadeh Davoodi
-  publisher: IEEE/ACM International Workshop on Logic & Synthesis
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS'08)
   date: '2008-06-01'
   plugin: sources.py
   file: sources.yaml
@@ -224,7 +224,7 @@
   - Azadeh Davoodi
   - Nam Sung Kim
   - Mikko Lipasti
-  publisher: IEEE/ACM International Workshop on Logic & Synthesis
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS'13)
   date: '2013-06-01'
   plugin: sources.py
   file: sources.yaml
@@ -232,7 +232,7 @@
   authors:
   - Lizi Zhang
   - Azadeh Davoodi
-  publisher: IEEE/ACM International Workshop on Logic & Synthesis
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS'24)
   date: '2024-06-06'
   link: https://www.iwls.org/iwls2024/program.php
   plugin: sources.py
@@ -242,7 +242,7 @@
   authors:
   - Robert Viramontes
   - Azadeh Davoodi
-  publisher: IEEE/ACM International Workshop on Logic & Synthesis
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS'24)
   date: '2024-06-06'
   link: https://www.iwls.org/iwls2024/program.php
   plugin: sources.py

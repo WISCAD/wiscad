@@ -815,6 +815,19 @@
   link: https://doi.org/gtz6s2
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1109/DATE.2012.6176726
+  title: Custom on-chip sensors for post-silicon failing path isolation in the presence
+    of process variations
+  authors:
+  - ' Min Li'
+  - Azadeh Davoodi
+  - ' Lin Xie'
+  publisher: 2012 Design, Automation &amp; Test in Europe Conference &amp; Exhibition
+    (DATE)
+  date: '2012-03-01'
+  link: https://doi.org/gt6355
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/ICCAD.2011.6105337
   title: Congestion analysis for global routing via integer programming
   authors:

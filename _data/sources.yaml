@@ -1,3 +1,13 @@
+- title: 'Online and operand-aware detection of failures by utilizing false alarm vectors'
+  authors:
+  - Amir Yazdanbakhsh
+  - David Palframan
+  - Azadeh Davoodi
+  - Nam Sung Kim
+  - Mikko Lipasti
+  publisher: IEEE/ACM International Workshop on Logic & Synthesis
+  date: '2013-06'
+
 - title: 'On Neural Networks for Automatic Test Pattern Generation'
   authors:
   - Lizi Zhang

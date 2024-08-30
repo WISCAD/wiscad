@@ -15,4 +15,4 @@ Hi! I’m Lizi Zhang, a PhD student in Electrical & Computer Engineering at the 
 
 **Released Software:** [ML4ATPG](https://github.com/lzzh97/NN-for-ATPG)
 
-**Awards:** MLCAD student travel grant, DAC Richard Newton Young Student Fellowship 
+**Awards:** MLCAD'24 student travel grant, DAC'24 Richard Newton Young Student Fellowship 

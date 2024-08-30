@@ -1,6 +1,7 @@
 ---
 name: Wei Zeng
 role: alum
+image: images/wei-zeng.jpg
 aliases:
   - W. Zeng
   - W Zeng

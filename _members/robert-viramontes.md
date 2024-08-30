@@ -12,4 +12,4 @@ Hi! I am a graduate student studying Computer Engineering at the University of W
 
 **Released software:** [DistDNN](https://github.com/robertviramontes/distributed_inference_estimation_optimization/tree/main)
 
-**Awards:** MLSys'24 Travel grant, SMARTCOMP'24 Travel grant, DAC'24 PhD PhD Forum Travel grant
+**Awards:** MLSys'24 travel grant, SMARTCOMP'24 travel grant, DAC'24 PhD forum travel grant

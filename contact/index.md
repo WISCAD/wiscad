@@ -10,8 +10,8 @@ nav:
 {%
   include button.html
   type="email"
-  text="adavoodi@wisc.com"
-  link="adavoodi@wisc.com"
+  text="adavoodi@wisc.edu"
+  link="adavoodi@wisc.edu"
 %}
 {%
   include button.html

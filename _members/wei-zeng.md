@@ -13,8 +13,9 @@ Dissertation: "Explainable Artificial Intelligence for Better Design of Very Lar
 
 First Employment: Synopsys
 
-**Awards**
-[First-place winner of IWLS programming contest (2022)
+**Awards**:
+
+[First-place winner of IWLS programming contest (2021)
 ](https://engineering.wisc.edu/news/ece-phd-students-win-international-machine-learning-contest/)
 
-[Second-place winnder of IWLS programming contest (2021)](https://engineering.wisc.edu/news/ece-phd-student-places-high-in-international-programming-competition/)
+[Second-place winnder of IWLS programming contest (2020)](https://engineering.wisc.edu/news/ece-phd-student-places-high-in-international-programming-competition/)

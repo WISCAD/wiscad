@@ -1,4 +1,10 @@
-
+- title: 'Static IR Drop Prediction with Limited Data from Real Designs'
+  authors:
+  - Lizi Zhang
+  - Azadeh Davoodi
+  publisher: IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)
+  date: '2025-01-20'
+  
 - title: 'Power-driven global routing for MSV domains'
   authors:
   - Tai-Hsuan Wu

@@ -85,6 +85,15 @@
   azadeh-davoodi: true
   plugin: sources.py
   file: sources.yaml
+- title: Efficient and Effective Neural Networks for Automatic Test Pattern Generation
+  image: images/artifact.jpg
+  authors:
+  - Lizi Zhang
+  - Azadeh Davoodi
+  publisher: IEEE/ACM International Symposium on Machine Learning for CAD
+  date: '2024-09-09'
+  plugin: sources.py
+  file: sources.yaml
 - title: Static IR Drop Prediction with Limited Data from Real Designs
   authors:
   - Lizi Zhang

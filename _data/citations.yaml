@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1145/3670474.3685939
+  title: Efficient and Effective Neural Networks for Automatic Test Pattern Generation
+  authors:
+  - Lizi Zhang
+  - Azadeh Davoodi
+  publisher: Proceedings of the 2024 ACM/IEEE International Symposium on Machine Learning
+    for CAD
+  date: '2024-09-09'
+  link: https://doi.org/gvckb8
+  orcid: 0000-0001-5213-2556
+  azadeh-davoodi: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/TCAD.2020.3033750
   title: 'AirNN: A Featherweight Framework for Dynamic Input-Dependent Approximation
     of CNNs'
@@ -85,13 +98,16 @@
   azadeh-davoodi: true
   plugin: sources.py
   file: sources.yaml
-- title: Efficient and Effective Neural Networks for Automatic Test Pattern Generation
-  image: images/artifact.jpg
+- id: 10.1145/3670474.3685939
+  title: Efficient and Effective Neural Networks for Automatic Test Pattern Generation
   authors:
   - Lizi Zhang
   - Azadeh Davoodi
-  publisher: IEEE/ACM International Symposium on Machine Learning for CAD
+  publisher: Proceedings of the 2024 ACM/IEEE International Symposium on Machine Learning
+    for CAD
   date: '2024-09-09'
+  link: https://doi.org/gvckb8
+  image: images/artifact.jpg
   plugin: sources.py
   file: sources.yaml
 - title: Static IR Drop Prediction with Limited Data from Real Designs
@@ -514,7 +530,7 @@
   - Jackson Melchert
   - Boyu Zhang
   - Azadeh Davoodi
-  publisher: Proceedings of the 2018 on Great Lakes Symposium on VLSI
+  publisher: Proceedings of the 2018 Great Lakes Symposium on VLSI
   date: '2018-05-30'
   link: https://doi.org/gknwsp
   plugin: sources.py

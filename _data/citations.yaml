@@ -1144,7 +1144,7 @@
   authors:
   - Jungseob Lee
   - Azadeh Davoodi
-  publisher: 2007 IEEE International Symposium on Circuits and Systems (ISCAS)
+  publisher: 2007 IEEE International Symposium on Circuits and Systems
   date: '2007-05-01'
   link: https://doi.org/cs9c6p
   plugin: sources.py

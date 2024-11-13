@@ -5,6 +5,13 @@
   - Rasit Onur Topaloglu
   publisher: IEEE/ACM Design, Automation & Test In Europe Conference & Exhibition (DATE)
   date: '2025-03-31'
+
+  - title: 'Static IR Drop Prediction with Limited Data from Real Designs'
+  authors:
+  - Lizi Zhang 
+  - Azadeh Davoodi
+  publisher: IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)
+  date: '2024-01-20'
   
 - id: doi:10.1145/3670474.3685939
   image: images/artifact.jpg

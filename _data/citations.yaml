@@ -106,7 +106,7 @@
   - Rasit Onur Topaloglu
   publisher: IEEE/ACM Design, Automation & Test In Europe Conference & Exhibition
     (DATE)
-  date: ''
+  date: '2025-03-31'
   plugin: sources.py
   file: sources.yaml
 - title: Power-driven global routing for MSV domains

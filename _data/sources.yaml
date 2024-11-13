@@ -1,3 +1,11 @@
+- title: 'ReBERT: LLM for Gate-Level to Word-Level Reverse Engineering'
+  authors:
+  - Lizi Zhang 
+  - Azadeh Davoodi
+  - Rasit Onur Topaloglu
+  publisher: IEEE/ACM Design, Automation & Test In Europe Conference & Exhibition (DATE)
+  date: '03-31-2025'
+  
 - id: doi:10.1145/3670474.3685939
   image: images/artifact.jpg
   

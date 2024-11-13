@@ -99,6 +99,16 @@
   azadeh-davoodi: true
   plugin: sources.py
   file: sources.yaml
+- title: 'ReBERT: LLM for Gate-Level to Word-Level Reverse Engineering'
+  authors:
+  - Lizi Zhang
+  - Azadeh Davoodi
+  - Rasit Onur Topaloglu
+  publisher: IEEE/ACM Design, Automation & Test In Europe Conference & Exhibition
+    (DATE)
+  date: ''
+  plugin: sources.py
+  file: sources.yaml
 - title: Power-driven global routing for MSV domains
   authors:
   - Tai-Hsuan Wu
@@ -1064,7 +1074,7 @@
   - L. Xie
   - A. Davoodi
   publisher: IET Circuits, Devices &amp; Systems
-  date: '2008-01-01'
+  date: '2008-04-10'
   link: https://doi.org/ff3c2p
   plugin: sources.py
   file: sources.yaml
@@ -1144,7 +1154,7 @@
   authors:
   - Jungseob Lee
   - Azadeh Davoodi
-  publisher: 2007 IEEE International Symposium on Circuits and Systems (ISCAS)
+  publisher: 2007 IEEE International Symposium on Circuits and Systems
   date: '2007-05-01'
   link: https://doi.org/cs9c6p
   plugin: sources.py

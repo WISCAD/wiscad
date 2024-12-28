@@ -19,3 +19,5 @@ Hi! I’m Lizi Zhang, a PhD student in Electrical & Computer Engineering at the 
 
 **Best paper candidate:** DATE'2025
 
+**Internship:** Cadence Summer 2025
+

@@ -16,4 +16,4 @@ Hi! I am a graduate student studying Computer Engineering at the University of W
 
 **Internships:** AMD (Summer 2022), Tenstorrent (Fall 2024)
 
-NSF Graduate Research Fellowship: Honorable Mention
+**NSF Graduate Research Fellowship:** Honorable Mention

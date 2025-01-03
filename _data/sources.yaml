@@ -4,15 +4,15 @@
   - Azadeh Davoodi
   publisher: IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)
   date: '2025-01-20'
-  image: images/BPC.jpg
 
 - title: 'ReBERT: LLM for Gate-Level to Word-Level Reverse Engineering'
   authors:
   - Lizi Zhang 
   - Azadeh Davoodi
   - Rasit Onur Topaloglu
-  publisher: IEEE/ACM Design, Automation & Test In Europe Conference & Exhibition (DATE), BEST PAPER CANDIDATE
+  publisher: IEEE/ACM Design, Automation & Test In Europe Conference & Exhibition (DATE)
   date: '2025-03-31'
+  image: images/BPC.jpg
   
 - id: doi:10.1145/3670474.3685939
   image: images/artifact.jpg

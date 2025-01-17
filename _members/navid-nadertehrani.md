@@ -1,6 +1,5 @@
 ---
 name: Navid Nader Tehrani
-image: images/navid-nadertehrani.jpg
 role: phd
 aliases:
   - N. Nader Tehrani

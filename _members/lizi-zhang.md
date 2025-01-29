@@ -18,5 +18,3 @@ Hi! I’m Lizi Zhang, a PhD student in Electrical & Computer Engineering at the 
 **Awards:** MLCAD'24 student travel grant, DAC'24 Richard Newton Young Student Fellowship 
 
 **Best paper candidate:** DATE'2025
-
-**Internships:** Cadence'2025, Nvidia'2025

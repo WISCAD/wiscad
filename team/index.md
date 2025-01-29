@@ -13,7 +13,6 @@ nav:
 {% include list.html data="members" component="portrait" filters="name: Robert Viramontes" %}
 {% include list.html data="members" component="portrait" filters="name: Lizi Zhang" %}
 {% include list.html data="members" component="portrait" filters="name: Navid Nader Tehrani" %}
-{% include list.html data="members" component="portrait" filters="name: Sahand Divsalar" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 

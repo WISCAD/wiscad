@@ -16,7 +16,7 @@ nav:
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-# {% include icon.html icon="fa-solid fa-users" %}WISCAD Graduates
+# {% include icon.html icon="fa-solid fa-users" %}WISCAD Graduates : PhD
 
 {% include section.html %}
 
@@ -39,3 +39,31 @@ nav:
 [**Tai-Hsuan Wu**](https://wiscad.github.io/wiscad/members/taihsuan-wu.html), PhD'11
 
 [**Lin Xie**](https://wiscad.github.io/wiscad/members/lin-xie.html), PhD'10
+
+# {% include icon.html icon="fa-solid fa-users" %}WISCAD Graduates : MS
+{% include section.html %}
+
+**Edward Tashjian**, Fall 2015, DAC Publication: "Using control signals to improve reverse engineering words in a bit-level circuit", ARM
+
+**Sakshi Gupta**, Spring 2015, Intel
+
+**Amir Yazdanbakhsh**, Spring 2014, GLSVLSI Publication: "Online and operand-aware detection of failures by utilizing false alarm vectors", PhD at Georgia Tech
+
+**Shirley Lei**, Fall 2013, Project: "Routability-driven standard-cell design for 3D monolithic ICs"
+
+**Yao Ding**, Fall 2013, Project: "Routability-driven partitioning in 3D monolithic ICs"
+
+**Ranjan Banerjee**, MS student, Fall 2012 and Spring 2013, Topic: "Routing congestion", Oracle
+
+**Vandita Gupta**, MS student, Summar and Fall 2012, Topic: "Secure IC placement", Intel
+
+**Ziliang Guo**, Fall 2011, Topic: "Parallel global routing"
+
+**Meng Shi**, 2010, Marvell
+
+**Shreyas Parnerkas**, 2010, Project: "False-path aware static timing analysis", AMD
+
+**Anuj Kumar**, 2009, ICCD Publication/Thesis: "SynECO: Technology remapping with incremental constrained placement and exact timing estimation", Cisco, and later senior R&D engineer at Synopsys
+
+**Jungseob Lee**, 2007, ISCAS Publication/Thesis: "Design of a robust low-leakage SRAM under process variations", PhD student at UW-Madison, Intel
+

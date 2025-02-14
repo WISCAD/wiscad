@@ -9,6 +9,8 @@ nav:
 
 Our outreach is primarily in the form of involving undergraduate students in research. Some of our undergraduate researchers were supported as NSF REU, published in top conferences as first author, and ultimately obtained their PhD degrees at very top institutions.
 
+{% include section.html background="images/background.jpg" dark=true %}
+
 # {% include icon.html icon="fa-solid fa-users" %}WISCAD Graduates : BS
 
 {% include section.html %}

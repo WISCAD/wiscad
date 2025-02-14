@@ -40,6 +40,7 @@ nav:
 
 [**Lin Xie**](https://wiscad.github.io/wiscad/members/lin-xie.html), PhD'10
 
+{% include section.html background="images/background.jpg" dark=true %}
 # {% include icon.html icon="fa-solid fa-users" %}WISCAD Graduates : MS
 {% include section.html %}
 

@@ -19,7 +19,7 @@ Our outreach has primarily been in the form of involving undergraduate students 
 
 **[David Yu](https://www.linkedin.com/in/davidyu13/)**, Summer and Fall 2016 REU, Project: "Synthesis with majority logic"
 
-**Edward Tashjian**, Fall 2013 REU, Publication: "Use of control signals for reverse-engineering gate-level netlists"
+**[Edward Tashjian](https://www.linkedin.com/in/edwardtashjian/)**, Fall 2013 REU, Publication: "Use of control signals for reverse-engineering gate-level netlists"
 
 **Kenneth Siu**, Fall 2013 REU, Project: "Hacking design information from an encrypted netlist at the placement level"
 

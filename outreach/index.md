@@ -21,17 +21,17 @@ Our outreach has primarily been in the form of involving undergraduate students 
 
 **[Edward Tashjian](https://www.linkedin.com/in/edwardtashjian/)**, Fall 2013 REU, Publication: "Use of control signals for reverse-engineering gate-level netlists"
 
-**Kenneth Siu**, Fall 2013 REU, Project: "Hacking design information from an encrypted netlist at the placement level"
+**[Kenneth Siu](https://www.linkedin.com/in/kennethksiu/)**, Fall 2013 REU, Project: "Hacking design information from an encrypted netlist at the placement level"
 
 **Hao Liang**, BS student, Fall 2012, Topic: "Evaluation of a software package using Unix shell scripting and Perl programming"
 
-**Ye Hu**, Spring and Summer REU 2011, Project: "Routability-driven Placement", Qualcomm
+**[Ye Hu](https://www.linkedin.com/in/ye-hu-a9521342/)**, Spring and Summer REU 2011, Project: "Routability-driven Placement", Qualcomm
 
-**Ammar Al Marzouqi**, Summer 2011, Project: "Routing in Structured ASIC"
+**[Ammar Al Marzouqi](https://www.linkedin.com/in/ammaralmarzooqi/)**, Summer 2011, Project: "Routing in Structured ASIC"
 
-**Michael Anderson**, Spring and Summer REU 2009, Project/Publication: "Statistical timing analysis", "Parallel timing optimization", PhD student at Berkeley
+**[Michael Anderson](https://www.linkedin.com/in/michael-anderson-996753b/)**, Spring and Summer REU 2009, Project/Publication: "Statistical timing analysis", "Parallel timing optimization", PhD student at Berkeley
 
-**Ahmed Fikri**, Spring 2011, Project: "Physically Unclonable Functions for IC security"
+**[Ahmed Fikri](https://www.linkedin.com/in/ahmedfikri/)**, Spring 2011, Project: "Physically Unclonable Functions for IC security"
 
 **Zhilong Cong**, Fall 2010, Project: "Physically Unclonable Functions for IC security"
 

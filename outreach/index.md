@@ -17,7 +17,7 @@ Our outreach has primarily been in the form of involving undergraduate students 
 
 **[Jackson Melchert](https://www.linkedin.com/in/jack-melchert-a97475226/)**, Summer and Fall 2017, and Spring 2018 REU, Publication: "Local net modeling with machine learning", TVLSI'17, GLSVLSI'18, PhD student at Stanford
 
-**David Yu**, Summer and Fall 2016 REU, Project: "Synthesis with majority logic"
+**[David Yu](https://www.linkedin.com/in/davidyu13/)**, Summer and Fall 2016 REU, Project: "Synthesis with majority logic"
 
 **Edward Tashjian**, Fall 2013 REU, Publication: "Use of control signals for reverse-engineering gate-level netlists"
 

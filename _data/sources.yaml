@@ -1,9 +1,4 @@
-- title: 'Static IR Drop Prediction with Limited Data from Real Designs'
-  authors:
-  - Lizi Zhang
-  - Azadeh Davoodi
-  publisher: IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)
-  date: '2025-01-20'
+- id: doi:10.1145/3658617.3697592
 
 - title: 'ReBERT: LLM for Gate-Level to Word-Level Reverse Engineering'
   authors:
@@ -153,7 +148,7 @@
   authors: 
   - Lizi Zhang
   - Azadeh Davoodi
-- id: 10.1109/SMARTCOMP61445.2024.00081
+- id: doi:10.1109/SMARTCOMP61445.2024.00081
 - id: doi:10.23919/DATE48585.2020.9116488
 - id: doi:10.1016/j.vlsi.2022.10.013
 - id: doi:10.1109/ISQED57927.2023.10129343

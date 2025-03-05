@@ -1,5 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1145/3658617.3697592
+  title: Static IR Drop Prediction with Limited Data from Real Designs
+  authors:
+  - Lizi Zhang
+  - Azadeh Davoodi
+  publisher: Proceedings of the 30th Asia and South Pacific Design Automation Conference
+  date: '2025-01-20'
+  link: https://doi.org/g865qx
+  orcid: 0000-0001-5213-2556
+  azadeh-davoodi: true
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3670474.3685939
   title: Efficient and Effective Neural Networks for Automatic Test Pattern Generation
   authors:
@@ -97,14 +109,6 @@
   link: https://doi.org/gtxrs3
   orcid: 0000-0001-5213-2556
   azadeh-davoodi: true
-  plugin: sources.py
-  file: sources.yaml
-- title: Static IR Drop Prediction with Limited Data from Real Designs
-  authors:
-  - Lizi Zhang
-  - Azadeh Davoodi
-  publisher: IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)
-  date: '2025-01-20'
   plugin: sources.py
   file: sources.yaml
 - title: 'ReBERT: LLM for Gate-Level to Word-Level Reverse Engineering'
@@ -288,7 +292,7 @@
   link: https://arxiv.org/abs/2408.03292v1
   plugin: sources.py
   file: sources.yaml
-- id: 10.1109/SMARTCOMP61445.2024.00081
+- id: doi:10.1109/SMARTCOMP61445.2024.00081
   title: 'DIME: Distributed Inference Model Estimation for Minimizing Profiled Latency'
   authors:
   - Robert Viramontes

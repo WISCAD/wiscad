@@ -12,6 +12,7 @@
   azadeh-davoodi: true
   plugin: sources.py
   file: sources.yaml
+  image: images/static-ir-drop.png
 - id: doi:10.1145/3670474.3685939
   title: Efficient and Effective Neural Networks for Automatic Test Pattern Generation
   authors:

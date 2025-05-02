@@ -164,11 +164,7 @@
   publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS)
   date: '2024-06-06'
  
-- id: arXiv:2408.03292v1
-  authors: 
-  - Lizi Zhang
-  - Azadeh Davoodi
-  
+- id: doi:arXiv:2408.03292v1
 - id: doi:10.1109/SMARTCOMP61445.2024.00081
 - id: doi:10.23919/DATE48585.2020.9116488
 - id: doi:10.1016/j.vlsi.2022.10.013
@@ -197,11 +193,11 @@
 - id: doi:10.1109/TVLSI.2017.2748018
 - id: doi:10.1109/ASPDAC.2017.7858351
 - id: doi:10.1145/2966986.2967006
-- id: arxiv:2012.02530
-- id: arxiv:1908.03266
+- id: doi:10.48550/arXiv.2012.02530
+- id: doi:10.48550/arXiv.1908.03266
 - id: doi:10.48550/arXiv.1811.00056
 - id: doi:10.1007/978-3-319-68511-3_9
-- id: arxiv:1811.04151
+- id: doi:10.48550/arXiv.1811.04151
 - id: doi:10.1145/3061639.3062335
 - id: doi:10.1145/3036669.3036676
 - id: doi:10.23919/DATE.2017.7927123

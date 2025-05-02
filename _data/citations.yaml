@@ -112,6 +112,14 @@
   azadeh-davoodi: true
   plugin: sources.py
   file: sources.yaml
+- title: 'FreDDI: Frequency-Driven DNN Partitioning in Distributed Inference'
+  authors:
+  - Robert Viramontes
+  - Azadeh Davoodi
+  publisher: 2025 IEEE International Conference on Smart Computing (SMARTCOMP)
+  date: '2025-06-16'
+  plugin: sources.py
+  file: sources.yaml
 - title: 'ReBERT: LLM for Gate-Level to Word-Level Reverse Engineering'
   authors:
   - Lizi Zhang

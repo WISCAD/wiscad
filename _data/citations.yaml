@@ -640,15 +640,15 @@
   link: https://arxiv.org/abs/1908.03266
   plugin: sources.py
   file: sources.yaml
-- id: arxiv:1811.00056
+- id: doi:10.48550/arXiv.1811.00056
   title: A Mixture of Expert Approach for Low-Cost Customization of Deep Neural Networks
   authors:
   - Boyu Zhang
   - Azadeh Davoodi
   - Yu-Hen Hu
   publisher: arXiv
-  date: '2018-11-02'
-  link: https://arxiv.org/abs/1811.00056
+  date: '2018-01-01'
+  link: https://doi.org/g9g8g2
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-319-68511-3_9

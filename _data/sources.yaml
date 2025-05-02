@@ -1,3 +1,13 @@
+
+- title: 'DNNP: An Automated, Hybrid Framework for Neural Network Pruning on Edge Devices'
+  authors:
+  - Robert Viramontes
+  - Cheng-En Wu
+  - Azadeh Davoodi
+  - Yu-Hen Hu
+  publisher: Poster at 7th Annual Conference on Machine Learning and Systems (MLSys)
+  date: '2024-05-13'
+
 - title: 'FreDDI: Frequency-Driven DNN Partitioning in Distributed Inference'
   authors:
   - Robert Viramontes

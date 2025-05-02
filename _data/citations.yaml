@@ -303,14 +303,14 @@
   date: '2024-06-06'
   plugin: sources.py
   file: sources.yaml
-- id: arXiv:2408.03292v1
-  title: "Static IR Drop Prediction with Attention U-Net and Saliency-Based\n  Explainability"
+- id: doi:arXiv:2408.03292v1
+  title: Static IR Drop Prediction with Attention U-Net and Saliency-Based Explainability
   authors:
   - Lizi Zhang
   - Azadeh Davoodi
   publisher: arXiv
   date: '2024-08-06'
-  link: https://arxiv.org/abs/2408.03292v1
+  link: https://doi.org/arxiv:2408.03292v1
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/SMARTCOMP61445.2024.00081
@@ -593,7 +593,7 @@
   link: https://doi.org/gtxrs6
   plugin: sources.py
   file: sources.yaml
-- id: arxiv:2012.02530
+- id: doi:10.48550/arXiv.2012.02530
   title: 'Logic Synthesis Meets Machine Learning: Trading Exactness for Generalization'
   authors:
   - Shubham Rai
@@ -637,19 +637,19 @@
   - Alan Mishchenko
   - Satrajit Chatterjee
   publisher: arXiv
-  date: '2020-12-16'
-  link: https://arxiv.org/abs/2012.02530
+  date: '2020-01-01'
+  link: https://doi.org/g9g8g4
   plugin: sources.py
   file: sources.yaml
-- id: arxiv:1908.03266
+- id: doi:10.48550/arXiv.1908.03266
   title: Efficient Inference of CNNs via Channel Pruning
   authors:
   - Boyu Zhang
   - Azadeh Davoodi
   - Yu Hen Hu
   publisher: arXiv
-  date: '2019-08-12'
-  link: https://arxiv.org/abs/1908.03266
+  date: '2019-01-01'
+  link: https://doi.org/g9g8g5
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.1811.00056
@@ -672,15 +672,15 @@
   link: https://doi.org/gt4rdk
   plugin: sources.py
   file: sources.yaml
-- id: arxiv:1811.04151
+- id: doi:10.48550/arXiv.1811.04151
   title: Design Rule Violation Hotspot Prediction Based on Neural Network Ensembles
   authors:
   - Wei Zeng
   - Azadeh Davoodi
   - Yu Hen Hu
   publisher: arXiv
-  date: '2018-11-13'
-  link: https://arxiv.org/abs/1811.04151
+  date: '2018-01-01'
+  link: https://doi.org/g9g8g6
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3061639.3062335

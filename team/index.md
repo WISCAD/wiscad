@@ -10,7 +10,6 @@ nav:
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="name: Azadeh Davoodi" %}
-{% include list.html data="members" component="portrait" filters="name: Robert Viramontes" %}
 {% include list.html data="members" component="portrait" filters="name: Lizi Zhang" %}
 {% include list.html data="members" component="portrait" filters="name: Navid Nader Tehrani" %}
 
@@ -19,6 +18,10 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}WISCAD Graduates : PhD
 
 {% include section.html %}
+
+<!-- {% include list.html data="members" component="portrait" filters="name: Robert Viramontes" %} -->
+
+[**Robert Viramontes**](https://wiscad.github.io/wiscad/members/robert-viramontes.html), PhD'25
 
 [**Maedeh Hemmat**](https://wiscad.github.io/wiscad/members/maedeh-hemmat.html), PhD'21
 

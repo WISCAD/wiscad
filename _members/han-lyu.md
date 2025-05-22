@@ -7,7 +7,8 @@ aliases:
   - Han Lyu
   - H Lyu
 links:
-  https://www.linkedin.com/in/han-lyu-87a41225a/?locale=en_US
+links:
+  linkedin: han-lyu-87a41225a
 ---
 
 Undergraduate researcher working on hardware Trojan detection with machine learning

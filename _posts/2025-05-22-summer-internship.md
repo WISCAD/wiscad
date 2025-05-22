@@ -1,5 +1,5 @@
 ---
-title: Summer Intership
+title: Intership
 ---
 ## Summer at Cadence
 

@@ -1,5 +1,5 @@
 ---
-title: Travel Award
+title: Award
 ---
 ## Navid wins a travel award
 

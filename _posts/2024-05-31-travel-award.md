@@ -1,5 +1,5 @@
 ---
-title: Travel Award
+title:  Award
 ---
 
 ## Robert and Lizi win multiple travel awards

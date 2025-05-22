@@ -1,5 +1,5 @@
 ---
-title: Travel Award
+title: Award
 ---
 ## Lizi's travel award
 

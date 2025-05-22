@@ -1,6 +1,7 @@
 ---
 name: Han Lyu
 image: images/Han-Lyu.jpg
+role: undergrad
 aliases:
   - H. Lyu
   - Han Lyu

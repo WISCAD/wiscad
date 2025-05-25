@@ -72,8 +72,8 @@ nav:
 
 **Jungseob Lee**, 2007, ISCAS Publication/Thesis: "Design of a robust low-leakage SRAM under process variations", PhD student at UW-Madison, Intel
 
+{% include section.html background="images/background.jpg" dark=true %}
 # {% include icon.html icon="fa-solid fa-users" %}Past Undergraduate Researchers at WISCAD :
-
 {% include section.html %}
 
 **[Jackson Melchert](https://www.linkedin.com/in/jack-melchert-a97475226/)**, Summer and Fall 2017, and Spring 2018 REU, Publication: "Local net modeling with machine learning", TVLSI'17, GLSVLSI'18, PhD student at Stanford

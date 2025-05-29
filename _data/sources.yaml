@@ -19,13 +19,7 @@
 - id: doi:10.1145/3658617.3697592
   image: images/static-ir-drop.png
 
-- title: 'ReBERT: LLM for Gate-Level to Word-Level Reverse Engineering'
-  authors:
-  - Lizi Zhang 
-  - Azadeh Davoodi
-  - Rasit Onur Topaloglu
-  publisher: IEEE/ACM Design, Automation & Test In Europe Conference & Exhibition (DATE)
-  date: '2025-03-31'
+- id: doi:10.23919/DATE64628.2025.10993097
   image: images/BPC.jpg
   
 - id: doi:10.1145/3670474.3685939
@@ -163,7 +157,7 @@
   - Azadeh Davoodi
   publisher: IEEE/ACM International Workshop on Logic & Synthesis (IWLS)
   date: '2024-06-06'
- 
+
 - id: doi:arXiv:2408.03292v1
 - id: doi:10.1109/SMARTCOMP61445.2024.00081
 - id: doi:10.23919/DATE48585.2020.9116488

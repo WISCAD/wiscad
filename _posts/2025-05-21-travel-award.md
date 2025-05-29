@@ -1,5 +1,5 @@
 ---
-title: Navid wins a Richard Newtorn Young Student Fellowship
+title: Richard Newtorn Young Student Fellowship
 ---
 ##
 

@@ -2,7 +2,7 @@
 title: Members
 nav:
   order: 3
-  tooltip: About our team
+  tooltip: Current and past team members
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Current Members

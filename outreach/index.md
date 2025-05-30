@@ -1,8 +1,7 @@
 ---
-title: Members
+title: Outreach
 nav:
   order: 5
-  tooltip: About our team
 ---
 
 Listed presenter at [Badger Talks](https://badgertalks.wisc.edu/speaker/azadeh-davoodi/), University of Wisconsin - Madison

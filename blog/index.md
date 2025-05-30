@@ -2,7 +2,7 @@
 title: News
 nav:
   order: 4
-  tooltip: papers, award, ...
+  tooltip: award, new research, ...
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}News

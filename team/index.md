@@ -48,29 +48,29 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}WISCAD Graduates : MS
 {% include section.html %}
 
-**Edward Tashjian**, Fall 2015, DAC Publication: "Using control signals to improve reverse engineering words in a bit-level circuit", ARM
+**[Edward Tashjian](https://www.linkedin.com/in/edwardtashjian/)**, Fall 2015, DAC Publication: "Using control signals to improve reverse engineering words in a bit-level circuit", ARM
 
-**Sakshi Gupta**, Spring 2015, Intel
+**[Sakshi Gupta](https://www.linkedin.com/in/sakshigupta2/)**, Spring 2015, Intel
 
-**Amir Yazdanbakhsh**, Spring 2014, GLSVLSI Publication: "Online and operand-aware detection of failures by utilizing false alarm vectors", PhD at Georgia Tech
+**[Amir Yazdanbakhsh](https://www.linkedin.com/in/ayazdanb/)**, Spring 2014, GLSVLSI Publication: "Online and operand-aware detection of failures by utilizing false alarm vectors", PhD at Georgia Tech
 
 **Shirley Lei**, Fall 2013, Project: "Routability-driven standard-cell design for 3D monolithic ICs"
 
-**Yao Ding**, Fall 2013, Project: "Routability-driven partitioning in 3D monolithic ICs"
+**[Yao Ding](https://www.linkedin.com/in/yao-ding/)**, Fall 2013, Project: "Routability-driven partitioning in 3D monolithic ICs"
 
-**Ranjan Banerjee**, MS student, Fall 2012 and Spring 2013, Topic: "Routing congestion", Oracle
+**[Ranjan Banerjee](https://www.linkedin.com/in/ranjan-banerjee-9084a435/)**, MS student, Fall 2012 and Spring 2013, Topic: "Routing congestion", Oracle
 
-**Vandita Gupta**, MS student, Summar and Fall 2012, Topic: "Secure IC placement", Intel
+**[Vandita Gupta](https://www.linkedin.com/in/vandita-gupta-505052126/)**, MS student, Summar and Fall 2012, Topic: "Secure IC placement", Intel
 
-**Ziliang Guo**, Fall 2011, Topic: "Parallel global routing"
+**[Ziliang Guo](https://www.linkedin.com/in/ziliang-guo-498543210/)**, Fall 2011, Topic: "Parallel global routing"
 
-**Meng Shi**, 2010, Marvell
+**[Meng Shi](https://www.linkedin.com/in/meng-s-4216a44/)**, 2010, Marvell
 
-**Shreyas Parnerkas**, 2010, Project: "False-path aware static timing analysis", AMD
+**[Shreyas Parnerkas](https://www.linkedin.com/in/shreyas-parnerkar-93763a1a/)**, 2010, Project: "False-path aware static timing analysis", AMD
 
-**Anuj Kumar**, 2009, ICCD Publication/Thesis: "SynECO: Technology remapping with incremental constrained placement and exact timing estimation", Cisco, and later senior R&D engineer at Synopsys
+**[Anuj Kumar](https://www.linkedin.com/in/kanujc/)**, 2009, ICCD Publication/Thesis: "SynECO: Technology remapping with incremental constrained placement and exact timing estimation", Cisco, and later senior R&D engineer at Synopsys
 
-**Jungseob Lee**, 2007, ISCAS Publication/Thesis: "Design of a robust low-leakage SRAM under process variations", PhD student at UW-Madison, Intel
+**[Jungseob Lee](https://www.linkedin.com/in/jungseob-lee-48604013/)**, 2007, ISCAS Publication/Thesis: "Design of a robust low-leakage SRAM under process variations", PhD student at UW-Madison, Intel
 
 {% include section.html background="images/background.jpg" dark=true %}
 # {% include icon.html icon="fa-solid fa-users" %}Past Undergraduate Researchers at WISCAD :
@@ -94,4 +94,4 @@ nav:
 
 **[Ahmed Fikri](https://www.linkedin.com/in/ahmedfikri/)**, Spring 2011, Project: "Physically Unclonable Functions for IC security"
 
-**Zhilong Cong**, Fall 2010, Project: "Physically Unclonable Functions for IC security"
+**[Zhilong Cong](https://www.linkedin.com/in/zcong/)**, Fall 2010, Project: "Physically Unclonable Functions for IC security"

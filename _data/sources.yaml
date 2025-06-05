@@ -1,4 +1,12 @@
 
+- title: 'CADI: Carbon-Aware Distributed Inference'
+  authors:
+  - Robert Viramontes
+  - Azadeh Davoodi
+  image: images/CADI.png
+  publisher: 2025 IEEE International Conference on Omni-Layer Intelligent Systems (COINS), Madison WI
+  date: '2025-08-04'
+  
 - title: 'DNNP: An Automated, Hybrid Framework for Neural Network Pruning on Edge Devices'
   authors:
   - Robert Viramontes

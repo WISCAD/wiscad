@@ -1,5 +1,5 @@
 ---
-title: Robert defends and winds WISL award
+title: Robert defends and wins WISL award
 ---
  
 

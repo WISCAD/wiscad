@@ -6,6 +6,7 @@ aliases:
   - H. Lyu
   - Han Lyu
   - H Lyu
+  - Han
 links:
 links:
   linkedin: han-lyu-87a41225a

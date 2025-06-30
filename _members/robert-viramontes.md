@@ -6,6 +6,10 @@ links:
   home-page: https://robertviramontes.github.io/
   linkedin: robert-viramontes
   orcid: 0000-0003-3074-2438
+aliases:
+  - R. Viramontes
+  - Robert Viramontes
+  - Robert
 ---
 
 **Dissertation:** ``[DISTRIBUTING DEEP NEURAL NETWORK INFERENCE ACROSS EDGE-HUB-CLOUD SYSTEMS](https://www.proquest.com/pqdtglobal/docview/3202650188/F876D76CCE4F4F74PQ/1?accountid=465&sourcetype=Dissertations%20&%20Theses)'', defended on: 5/7/2025

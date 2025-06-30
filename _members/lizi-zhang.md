@@ -6,6 +6,7 @@ aliases:
   - L. Zhang
   - L Zhang
   - Lizi Zhang
+  - Lizi
 links:
   linkedin: lizizhang97
   orcid: 0009-0001-3737-4044

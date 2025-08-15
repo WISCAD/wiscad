@@ -21,10 +21,10 @@ Azadeh Davoodi is a Vilas Distinguished Achievement Professor and Associate Chai
 + 2015 ACM Transactions on Design Automation of Electronic Systems (TODAES) best paper award
 + 2011 NSF CAREER award
 + 2010 Design Automation Conference (DAC) best paper candidate
-+ 2010 Honored instructor by students of the University of Housing for teaching ECE/CS 352
 + 2004 International Conference on Computer-Aided Design (ICCAD) best paper candidate
 
-
+<br>
+<br>
 
 **Service Summary:**
 + Associate Editor of IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD) since 2024 

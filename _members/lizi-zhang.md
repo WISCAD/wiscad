@@ -20,4 +20,4 @@ Hi! I’m Lizi Zhang, a PhD student in Electrical & Computer Engineering at the 
 
 **Best paper candidate:** DATE'2025
 
-**Internships:** Cadence Summer 2025
+**Internships:** Cadence Summer 2025, Nvidia Fall 2025

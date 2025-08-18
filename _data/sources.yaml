@@ -15,8 +15,7 @@
   publisher: Poster at 7th Annual Conference on Machine Learning and Systems (MLSys)
   date: '2024-05-13'
 
-- title: 'FreDDI: Frequency-Driven DNN Partitioning in Distributed Inference'
-  - id: doi:10.1109/SMARTCOMP65954.2025.00106
+- id: doi:10.1109/SMARTCOMP65954.2025.00106
   image: images/FreDDI.jpg
   
 - id: doi:10.1145/3658617.3697592

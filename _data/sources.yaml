@@ -16,12 +16,8 @@
   date: '2024-05-13'
 
 - title: 'FreDDI: Frequency-Driven DNN Partitioning in Distributed Inference'
-  authors:
-  - Robert Viramontes
-  - Azadeh Davoodi
+  - id: doi:10.1109/SMARTCOMP65954.2025.00106
   image: images/FreDDI.jpg
-  publisher: 2025 IEEE International Conference on Smart Computing (SMARTCOMP)
-  date: '2025-06-16'
   
 - id: doi:10.1145/3658617.3697592
   image: images/static-ir-drop.png

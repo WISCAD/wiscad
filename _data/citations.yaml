@@ -133,13 +133,15 @@
   date: '2024-05-13'
   plugin: sources.py
   file: sources.yaml
-- title: 'FreDDI: Frequency-Driven DNN Partitioning in Distributed Inference'
+- id: doi:10.1109/SMARTCOMP65954.2025.00106
+  title: 'FreDDI: Frequency-Driven DNN Partitioning in Distributed Inference'
   authors:
   - Robert Viramontes
   - Azadeh Davoodi
-  image: images/FreDDI.jpg
   publisher: 2025 IEEE International Conference on Smart Computing (SMARTCOMP)
   date: '2025-06-16'
+  link: https://doi.org/g9xdvv
+  image: images/FreDDI.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.23919/DATE64628.2025.10993097

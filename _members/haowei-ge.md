@@ -8,8 +8,7 @@ aliases:
   - Haowei Ge 
   - Haowei 
 links: 
-  linkedin: Haowei Ge 
-  orcid:  
+  linkedin: haowei-ge-7306b733a 
 --- 
 
 

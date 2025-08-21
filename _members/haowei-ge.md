@@ -1,7 +1,7 @@
 ---
 name: Haowei Ge
 image: images/Haowei-Ge.jpg
-role: phd
+role: ms
 aliases:
   - H. Ge
   - H Ge

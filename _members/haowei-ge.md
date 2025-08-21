@@ -1,6 +1,6 @@
 --- 
 name: Haowei Ge 
-image: images/haowei-ge.jpg
+image: images/Haowei-Ee.jpg
 role: ms 
 aliases: 
   - H. Ge 

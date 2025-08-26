@@ -112,14 +112,16 @@
   azadeh-davoodi: true
   plugin: sources.py
   file: sources.yaml
-- title: 'CADI: Carbon-Aware Distributed Inference'
+- id: doi:10.1109/COINS65080.2025.11125725
+  title: 'CADI: Carbon-Aware Distributed Inference'
   authors:
   - Robert Viramontes
   - Azadeh Davoodi
-  image: images/CADI.png
-  publisher: 2025 IEEE International Conference on Omni-Layer Intelligent Systems
-    (COINS), Madison WI
+  publisher: 2025 IEEE International Conference on Omni-layer Intelligent Systems
+    (COINS)
   date: '2025-08-04'
+  link: https://doi.org/g9zgrp
+  image: images/CADI.png
   plugin: sources.py
   file: sources.yaml
 - title: 'DNNP: An Automated, Hybrid Framework for Neural Network Pruning on Edge

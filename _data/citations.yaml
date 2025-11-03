@@ -112,6 +112,16 @@
   azadeh-davoodi: true
   plugin: sources.py
   file: sources.yaml
+- title: 'ReBERT: LLM for Gate-Level to Word-Level, in Generative AI for Next Generation
+    Computer Design'
+  authors:
+  - Lizi Zhang
+  - Azadeh Davoodi
+  - Rasit Onur Topaloglu
+  publisher: Springer Nature
+  date: '2026-06-06'
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/COINS65080.2025.11125725
   title: 'CADI: Carbon-Aware Distributed Inference'
   authors:

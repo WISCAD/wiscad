@@ -1,3 +1,12 @@
+- title: 'ReBERT: LLM for Gate-Level to Word-Level, in Generative AI for Next Generation Computer Design'
+Reverse Engineering'
+  authors:
+  - Lizi Zhang
+  - Azadeh Davoodi
+  - Rasit Onur Topaloglu
+  publisher: Springer Nature
+  date: '2026-xx-xx'
+  
 - id: doi:10.1109/COINS65080.2025.11125725
   image: images/CADI.png
   

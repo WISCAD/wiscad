@@ -1,3 +1,11 @@
+- title: 'BERT-HIT: A Transformer-Based Approach for Hardware Trojan Detection in Gate-Level Netlists'
+  authors:
+  - Lizi Zhang
+  - Navid Nader Tehrani
+  - Azadeh Davoodi
+  - Rasit Onur Topaloglu
+  publisher: IEEE International Symposium on Quality Electronic Design
+  date: '2026-04-08'
 
 - title: 'ReBERT: LLM for Gate-Level to Word-Level Reverse Engineering, in Generative AI for Next Generation Computer Design'
   authors:

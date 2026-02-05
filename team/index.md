@@ -50,7 +50,7 @@ nav:
 
 {% include list.html data="members" component="portrait" filters="name: Haowei Ge" %}
 
-**[Haowei Ge](https://www.linkedin.com/in/edwardtashjian/](https://www.linkedin.com/in/haowei-ge-7306b733a/)**, Professional MS student, Fall 2025, working on datapoisoning
+**[Haowei Ge](https://www.linkedin.com/in/haowei-ge-7306b733a/)**, Professional MS student, Fall 2025, research topic: data poisoning
 
 **[Edward Tashjian](https://www.linkedin.com/in/edwardtashjian/)**, Fall 2015, DAC Publication: "Using control signals to improve reverse engineering words in a bit-level circuit", ARM
 

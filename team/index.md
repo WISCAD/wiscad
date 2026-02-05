@@ -12,8 +12,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="name: Azadeh Davoodi" %}
 {% include list.html data="members" component="portrait" filters="name: Lizi Zhang" %}
 {% include list.html data="members" component="portrait" filters="name: Navid Nader Tehrani" %}
-{% include list.html data="members" component="portrait" filters="name: Haowei Ge" %}
-{% include list.html data="members" component="portrait" filters="name: Han Lyu" %}
+{% include list.html data="members" component="portrait" filters="name: Jayden Lee" %}
 
 
 {% include section.html background="images/background.jpg" dark=true %}
@@ -49,6 +48,10 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}WISCAD Graduates : MS
 {% include section.html %}
 
+{% include list.html data="members" component="portrait" filters="name: Haowei Ge" %}
+
+**[Haowei Ge](https://www.linkedin.com/in/edwardtashjian/](https://www.linkedin.com/in/haowei-ge-7306b733a/)**, Professional MS student, Fall 2025, working on datapoisoning
+
 **[Edward Tashjian](https://www.linkedin.com/in/edwardtashjian/)**, Fall 2015, DAC Publication: "Using control signals to improve reverse engineering words in a bit-level circuit", ARM
 
 **[Sakshi Gupta](https://www.linkedin.com/in/sakshigupta2/)**, Spring 2015, Intel
@@ -76,6 +79,8 @@ nav:
 {% include section.html background="images/background.jpg" dark=true %}
 # {% include icon.html icon="fa-solid fa-users" %}Past Undergraduate Researchers at WISCAD :
 {% include section.html %}
+
+**[Han Lyu](https://www.linkedin.com/in/han-lyu-87a41225a)**, Undergraduate researcher working on hardware Trojan detection on gate-level netlist based on the ICCAD 2025 contest, Summer 2025
 
 **[Jackson Melchert](https://www.linkedin.com/in/jack-melchert-a97475226/)**, Summer and Fall 2017, and Spring 2018 REU, Publication: "Local net modeling with machine learning", TVLSI'17, GLSVLSI'18, PhD student at Stanford
 

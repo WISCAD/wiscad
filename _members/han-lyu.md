@@ -13,3 +13,5 @@ links:
 ---
 
 Undergraduate researcher working on hardware Trojan detection on gate-level netlist based on the [ICCAD 2025 contest](https://drive.google.com/file/d/1oxhP7PzxqIZiNWUgwh-gYSFIJoyFBIo1/view)
+
+Summer 2025

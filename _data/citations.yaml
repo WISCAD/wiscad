@@ -130,6 +130,7 @@
   - Lizi Zhang
   - Azadeh Davoodi
   - Rasit Onur Topaloglu
+  image: images/ReBERT.jpg
   publisher: Springer Nature
   date: '2026-06-06'
   plugin: sources.py

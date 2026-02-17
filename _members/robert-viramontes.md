@@ -14,7 +14,7 @@ aliases:
 
 **Dissertation:** ``[DISTRIBUTING DEEP NEURAL NETWORK INFERENCE ACROSS EDGE-HUB-CLOUD SYSTEMS](https://www.proquest.com/pqdtglobal/docview/3202650188/F876D76CCE4F4F74PQ/1?accountid=465&sourcetype=Dissertations%20&%20Theses)'', defended on: 5/7/2025
 
-**Dissertation Award:** Wisconsin Initiative for Science Literacy ([WISL])(http:/scifun.org/Thesis_Awards/viramontes-thesis-web.pdf) Award for Communicating PhD Research to the Public, [news coverage](https://engineering.wisc.edu/blog/viramontes-receives-award-for-communicating-research-to-the-public/) 
+**Dissertation Award:** Wisconsin Initiative for Science Literacy [WISL](http:/scifun.org/Thesis_Awards/viramontes-thesis-web.pdf) Award for Communicating PhD Research to the Public, [news coverage](https://engineering.wisc.edu/blog/viramontes-receives-award-for-communicating-research-to-the-public/) 
 
 **First Employment:** Tenstorrent
 

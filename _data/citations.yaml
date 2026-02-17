@@ -119,6 +119,7 @@
   - Navid Nader Tehrani
   - Azadeh Davoodi
   - Rasit Onur Topaloglu
+  image: images/BERT-HIT.jpg
   publisher: IEEE International Symposium on Quality Electronic Design
   date: '2026-04-08'
   plugin: sources.py

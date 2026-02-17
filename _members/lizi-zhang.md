@@ -16,7 +16,7 @@ Hi! I’m Lizi Zhang, a PhD student in Electrical & Computer Engineering at the 
 
 **Released Software:** [ML4ATPG](https://github.com/lzzh97/NN-for-ATPG), [PDN-UNet](https://github.com/lzzh97/Static-IR-Drop-Prediction)
 
-**Awards:** MLCAD'24 student travel grant, DAC'24 Richard Newton Young Student Fellowship 
+**Awards:** Qualcomm graduate student award'26, MLCAD'24 student travel grant, DAC'24 Richard Newton Young Student Fellowship 
 
 **Best paper candidate:** DATE'2025
 

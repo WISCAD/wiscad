@@ -1,3 +1,13 @@
+
+- title: 'Feature-Aware Trojan Alteration to Evade ML-Based Detection'
+  authors:
+  - Lizi Zhang
+  - Navid Nader Tehrani
+  - Azadeh Davoodi
+  - Rasit Onur Topaloglu
+  publisher: IEEE VLSI Test Symposium (VTS)
+  date: '2026-04-27'
+
 - title: 'BERT-HIT: A Transformer-Based Approach for Hardware Trojan Detection in Gate-Level Netlists'
   authors:
   - Lizi Zhang
@@ -5,7 +15,7 @@
   - Azadeh Davoodi
   - Rasit Onur Topaloglu
   image: images/BERT-HIT.jpg
-  publisher: IEEE International Symposium on Quality Electronic Design
+  publisher: IEEE International Symposium on Quality Electronic Design (ISQED)
   date: '2026-04-08'
 
 - title: 'ReBERT: LLM for Gate-Level to Word-Level Reverse Engineering, in Generative AI for Next Generation Computer Design'

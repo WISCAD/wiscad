@@ -118,6 +118,7 @@
   - Navid Nader Tehrani
   - Azadeh Davoodi
   - Rasit Onur Topaloglu
+  image: images/trojan-alteration.jpg
   publisher: IEEE VLSI Test Symposium (VTS)
   date: '2026-04-27'
   plugin: sources.py

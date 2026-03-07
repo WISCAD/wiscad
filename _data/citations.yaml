@@ -112,6 +112,16 @@
   azadeh-davoodi: true
   plugin: sources.py
   file: sources.yaml
+- title: Feature-Aware Trojan Alteration to Evade ML-Based Detection
+  authors:
+  - Lizi Zhang
+  - Navid Nader Tehrani
+  - Azadeh Davoodi
+  - Rasit Onur Topaloglu
+  publisher: IEEE VLSI Test Symposium (VTS)
+  date: '2026-04-27'
+  plugin: sources.py
+  file: sources.yaml
 - title: 'BERT-HIT: A Transformer-Based Approach for Hardware Trojan Detection in
     Gate-Level Netlists'
   authors:
@@ -120,7 +130,7 @@
   - Azadeh Davoodi
   - Rasit Onur Topaloglu
   image: images/BERT-HIT.jpg
-  publisher: IEEE International Symposium on Quality Electronic Design
+  publisher: IEEE International Symposium on Quality Electronic Design (ISQED)
   date: '2026-04-08'
   plugin: sources.py
   file: sources.yaml

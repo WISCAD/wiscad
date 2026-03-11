@@ -12,7 +12,7 @@ co-advised with [Prof. Twan Basten](https://www.tue.nl/en/research/researchers/t
 
 Dissertation: "[Rethinking global routing in modern VLSI design: congestion reduction and multi-objective optimization](https://search.library.wisc.edu/digital/AHG7FO6IMLWAUW8K)", defense date: 05/21/2012
 
-First Employment: Qualcomm
+First Employment: Qualcomm, Google, ChipStack (CTO) --> purchased by Cadence in 2026
 
 [Best Paper Award of ACM TODAES'2015](https://dl.acm.org/journal/todaes/honors-and-awards)
 

@@ -7,7 +7,7 @@
   - Rasit Onur Topaloglu
   image: images/trojan-alteration.jpg
   publisher: IEEE VLSI Test Symposium (VTS)
-  date: '2026-04-27'
+  date: '2026-04-29'
 
 - title: 'BERT-HIT: A Transformer-Based Approach for Hardware Trojan Detection in Gate-Level Netlists'
   authors:

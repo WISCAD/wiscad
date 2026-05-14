@@ -11,7 +11,7 @@ nav:
 
 {% include list.html data="members" component="portrait" filters="name: Azadeh Davoodi" %}
 {% include list.html data="members" component="portrait" filters="name: Navid Nader Tehrani" %}
-{% include list.html data="members" component="portrait" filters="name: Jayden Lee" %}
+{% include list.html data="members" component="portrait" filters="name: Saba Maddahali" %}
 
 
 {% include section.html background="images/background.jpg" dark=true %}
@@ -78,6 +78,8 @@ nav:
 {% include section.html background="images/background.jpg" dark=true %}
 # {% include icon.html icon="fa-solid fa-users" %}Past Undergraduate Researchers at WISCAD :
 {% include section.html %}
+
+**[Jayden Lee](https://www.linkedin.com/in/jayden-lee-b5b124215/)**, Undergraduate researcher working on data poisoning attack, presented work at ECE Undergraduate Research Symposium, April 2026
 
 **[Han Lyu](https://www.linkedin.com/in/han-lyu-87a41225a)**, Undergraduate researcher working on hardware Trojan detection on gate-level netlist based on the ICCAD 2025 contest, Summer 2025
 

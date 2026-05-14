@@ -1,7 +1,7 @@
 ---
 name: Lizi Zhang
 image: images/lizi-zhang.jpg
-role: phd
+role: alum
 aliases:
   - L. Zhang
   - L Zhang

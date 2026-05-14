@@ -10,7 +10,6 @@ nav:
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="name: Azadeh Davoodi" %}
-{% include list.html data="members" component="portrait" filters="name: Lizi Zhang" %}
 {% include list.html data="members" component="portrait" filters="name: Navid Nader Tehrani" %}
 {% include list.html data="members" component="portrait" filters="name: Jayden Lee" %}
 
@@ -21,6 +20,8 @@ nav:
 
 {% include section.html %}
 
+
+[**Lizi Zhang**](https://wiscad.github.io/wiscad/members/lizi-zhang.html), PhD'26 
 
 [**Robert Viramontes**](https://wiscad.github.io/wiscad/members/robert-viramontes.html), PhD'25 
 

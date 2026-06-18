@@ -10,5 +10,5 @@ aliases:
   - Navid
 ---
 
-**Awards:** DAC'25 Richard Newton Young Student Fellowship
+**Awards:** 2026 Epstein Teaching Fellow, DAC'25 Richard Newton Young Student Fellowship
 

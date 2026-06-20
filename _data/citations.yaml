@@ -112,28 +112,32 @@
   azadeh-davoodi: true
   plugin: sources.py
   file: sources.yaml
-- title: Late Breaking Results -- Feature-Aware Trojan Alteration to Evade ML-Based
-    Detection
+- id: 10.1109/VTS69484.2026.11563386
+  title: "Late Breaking Results \u2013 Feature-Aware Trojan Alteration to Evade ML-Based\
+    \ Detection"
   authors:
   - Lizi Zhang
   - Navid Nader Tehrani
   - Azadeh Davoodi
   - Rasit Onur Topaloglu
+  publisher: 2026 IEEE 44th VLSI Test Symposium (VTS)
+  date: '2026-04-27'
+  link: https://doi.org/hb8bs4
   image: images/trojan-alteration.jpg
-  publisher: IEEE VLSI Test Symposium (VTS)
-  date: '2026-04-29'
   plugin: sources.py
   file: sources.yaml
-- title: 'BERT-HIT: A Transformer-Based Approach for Hardware Trojan Detection in
+- id: 10.1109/ISQED69900.2026.11534692
+  title: 'BERT-HIT: A Transformer-Based Approach for Hardware Trojan Detection in
     Gate-Level Netlists'
   authors:
   - Lizi Zhang
   - Navid Nader Tehrani
   - Azadeh Davoodi
   - Rasit Onur Topaloglu
-  image: images/BERT-HIT.jpg
-  publisher: IEEE International Symposium on Quality Electronic Design (ISQED)
+  publisher: 2026 27th International Symposium on Quality Electronic Design (ISQED)
   date: '2026-04-08'
+  link: https://doi.org/hb8bs5
+  image: images/BERT-HIT.jpg
   plugin: sources.py
   file: sources.yaml
 - title: 'ReBERT: LLM for Gate-Level to Word-Level Reverse Engineering, in Generative

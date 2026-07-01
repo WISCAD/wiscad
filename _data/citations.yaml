@@ -148,7 +148,8 @@
   - Rasit Onur Topaloglu
   image: images/ReBERT.jpg
   publisher: Springer Nature
-  date: '2026-06-06'
+  date: '2026-10-10'
+  isbn: 9783032335111
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/COINS65080.2025.11125725

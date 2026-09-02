@@ -39,5 +39,5 @@ Azadeh Davoodi is a Vilas Distinguished Achievement Professor and Associate Chai
 + Topic Chair of DATE 2011-2013
 + Track Chair of International Conference on Computer Design (ICCD) 2010-2012
 + Member of Best paper award committees of DAC, ICCAD and ACM TRETS
-+ TPC member of over over 10 EDA-related conferences and workshop including DAC, ICCAD, ASPDAC, DATE, ISLPED, ISQED, ISPD, ICCD, GLSVLSI, ASQED, IWLS, SLIP, and DuDHE
++ TPC member of over over 10 EDA-related conferences and workshop including DAC, ICCAD, ASPDAC, DATE, HOST, ISLPED, ISQED, ISPD, ICCD, GLSVLSI, ASQED, IWLS, SLIP, and DuDHE
 

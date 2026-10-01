@@ -14,3 +14,5 @@ aliases:
 
 **Code:** [LoRD (hardware Trojan detector)](https://github.com/navidnt/Lord_Trojan_Detection) 
 
+**News coverage:** [SemiIPHub coverage on LoRD](https://semiiphub.com/pulse/technical-articles/demystifying-gate-level-localization-of-rtl-trojans)
+

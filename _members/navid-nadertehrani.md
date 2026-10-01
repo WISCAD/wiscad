@@ -11,4 +11,5 @@ aliases:
 ---
 
 **Awards:** 2026 Epstein Teaching Fellow, DAC'25 Richard Newton Young Student Fellowship
+**Code:** [LoRD (hardware Trojan detector)](https://github.com/navidnt/Lord_Trojan_Detection) 
 

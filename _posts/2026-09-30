@@ -1,0 +1,5 @@
+---
+title: New paper and code on gate-level Trojan detection, also picked up by SemiIPHub
+---
+
+Navid's new paper on gate-level Trojan detection from RTL is available on [ArXiv](https://arxiv.org/pdf/2609.17922v1). We report near-perfect score based on the setup of the ICCAD 2025 contest Problem A, organized by Cadence. The code is also available on [GitHub](https://github.com/navidnt/Lord_Trojan_Detection). [SemiIPHub](https://semiiphub.com/pulse/technical-articles/demystifying-gate-level-localization-of-rtl-trojans) also posted about this work.

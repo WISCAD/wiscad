@@ -13,7 +13,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="name: Navid Nader Tehrani" %}
 {% include list.html data="members" component="portrait" filters="name: Advait Paithankar" %}
 {% include list.html data="members" component="portrait" filters="name: Saba Maddahali" %}
-
+{% include list.html data="members" component="portrait" filters="name: Prince Kofi Attah Amoah" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 

@@ -12,6 +12,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="name: Azadeh Davoodi" %}
 {% include list.html data="members" component="portrait" filters="name: Navid Nader Tehrani" %}
 {% include list.html data="members" component="portrait" filters="name: Advait Paithankar" %}
+<br>
 {% include list.html data="members" component="portrait" filters="name: Saba Maddahali" %}
 {% include list.html data="members" component="portrait" filters="name: Prince Kofi Attah Amoah" %}
 

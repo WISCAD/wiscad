@@ -1,3 +1,9 @@
+- title: A
+  subtitle: Intelligent Agents for Semiconductor Test Automation
+  group: featured
+  image: images/AgentTest.jpg
+  description: The goal of this project is to develop AI agents that improve the efficiency and effectiveness of semiconductor testing and validation.
+    
 - title: XAI-CAD
   subtitle: explainable AI for better VLSI chip design
   link: https://github.com/WISCAD/XIA-CAD/tree/main

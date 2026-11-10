@@ -10,7 +10,7 @@ aliases:
   - Navid
 ---
 
-**Awards:** 2026 ICCAD SRC Student Competition scholarship, 2026 Epstein Teaching Fellow, DAC'25 Richard Newton Young Student Fellowship
+**Awards:** 2026 ICCAD Student Research Competition scholarship, 2026 Epstein Teaching Fellow, DAC'25 Richard Newton Young Student Fellowship
 
 **Code:** [LoRD (hardware Trojan detector)](https://github.com/navidnt/Lord_Trojan_Detection) 
 
